@@ -1,2 +1,2 @@
 # Metroid-2 GMK
- The official metroid 2 repositiory launch
+Computing U2O1 Metroid 2 Task
