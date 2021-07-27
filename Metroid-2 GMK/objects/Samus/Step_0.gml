@@ -28,4 +28,3 @@ if jumped = 1 {
 	sprite_index = SamusAirUpR
 	}
 }
-//test
