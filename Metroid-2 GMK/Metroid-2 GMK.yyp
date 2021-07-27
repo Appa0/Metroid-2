@@ -1,11 +1,12 @@
 {
   "resources": [
     {"id":{"name":"SamusSpiderL","path":"sprites/SamusSpiderL/SamusSpiderL.yy",},"order":10,},
+    {"id":{"name":"obj_Hornoad","path":"objects/obj_Hornoad/obj_Hornoad.yy",},"order":0,},
     {"id":{"name":"SamusSpinR","path":"sprites/SamusSpinR/SamusSpinR.yy",},"order":4,},
     {"id":{"name":"SamusRunR","path":"sprites/SamusRunR/SamusRunR.yy",},"order":2,},
     {"id":{"name":"SamusSpiderR","path":"sprites/SamusSpiderR/SamusSpiderR.yy",},"order":9,},
     {"id":{"name":"Samus","path":"objects/Samus/Samus.yy",},"order":4,},
-    {"id":{"name":"Sprite19","path":"sprites/Sprite19/Sprite19.yy",},"order":0,},
+    {"id":{"name":"spr_FrogDown","path":"sprites/spr_FrogDown/spr_FrogDown.yy",},"order":0,},
     {"id":{"name":"SamusBallR","path":"sprites/SamusBallR/SamusBallR.yy",},"order":7,},
     {"id":{"name":"SamusStand","path":"sprites/SamusStand/SamusStand.yy",},"order":6,},
     {"id":{"name":"SamusAirUpR","path":"sprites/SamusAirUpR/SamusAirUpR.yy",},"order":13,},
@@ -22,6 +23,7 @@
     {"id":{"name":"SamusBallL","path":"sprites/SamusBallL/SamusBallL.yy",},"order":8,},
     {"id":{"name":"SamusGunRunR","path":"sprites/SamusGunRunR/SamusGunRunR.yy",},"order":11,},
     {"id":{"name":"SamusSpinL","path":"sprites/SamusSpinL/SamusSpinL.yy",},"order":5,},
+    {"id":{"name":"spr_FrogUp","path":"sprites/spr_FrogUp/spr_FrogUp.yy",},"order":1,},
     {"id":{"name":"Tester","path":"rooms/Tester/Tester.yy",},"order":0,},
   ],
   "Options": [
