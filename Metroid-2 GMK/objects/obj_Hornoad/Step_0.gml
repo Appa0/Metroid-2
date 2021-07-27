@@ -9,14 +9,15 @@ else
 	}
 
 //Direction
-if varTarget = 1 && instance_exists(obj_Samus)
+if global.varDirSamus = 2 && instance_exists(obj_Samus)
 	{ 
-move_towards_point(obj_Samus.x,y,3);
+move_towards_point(obj_Samus.x,y,0);
 
 	if obj_Samus.x > x 
 		{
-			sprite_index = spr_SentryR;
+			sprite_index = spr_HornoadDownR;
 		}
-	else sprite_index = spr_SentryL;
+	else sprite_index = spr_HornoadDownL;
 }
 else speed = 0;
+

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_FrogDown",
-    "path": "sprites/spr_FrogDown/spr_FrogDown.yy",
+    "name": "spr_HornoadDownL",
+    "path": "sprites/spr_HornoadDownL/spr_HornoadDownL.yy",
   },
   "solid": false,
   "visible": true,

@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"784ba414-9e52-4548-8a1b-70cae3eadf38","path":"sprites/spr_FrogUp/spr_FrogUp.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"784ba414-9e52-4548-8a1b-70cae3eadf38","path":"sprites/spr_FrogUp/spr_FrogUp.yy",},"LayerId":{"name":"2204c51c-b5f8-4b30-b924-6c53116afcd4","path":"sprites/spr_FrogUp/spr_FrogUp.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_FrogUp","path":"sprites/spr_FrogUp/spr_FrogUp.yy",},"resourceVersion":"1.0","name":"784ba414-9e52-4548-8a1b-70cae3eadf38","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"784ba414-9e52-4548-8a1b-70cae3eadf38","path":"sprites/spr_HornoadUpR/spr_HornoadUpR.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"784ba414-9e52-4548-8a1b-70cae3eadf38","path":"sprites/spr_HornoadUpR/spr_HornoadUpR.yy",},"LayerId":{"name":"2204c51c-b5f8-4b30-b924-6c53116afcd4","path":"sprites/spr_HornoadUpR/spr_HornoadUpR.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_HornoadUpR","path":"sprites/spr_HornoadUpR/spr_HornoadUpR.yy",},"resourceVersion":"1.0","name":"784ba414-9e52-4548-8a1b-70cae3eadf38","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_FrogUp","path":"sprites/spr_FrogUp/spr_FrogUp.yy",},
+    "spriteId": {"name":"spr_HornoadUpR","path":"sprites/spr_HornoadUpR/spr_HornoadUpR.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"1199c72c-1fe3-45d6-bff3-d6ba70845745","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"784ba414-9e52-4548-8a1b-70cae3eadf38","path":"sprites/spr_FrogUp/spr_FrogUp.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"1e30ada4-8873-4440-aa79-132b9d07a0d8","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"784ba414-9e52-4548-8a1b-70cae3eadf38","path":"sprites/spr_HornoadUpR/spr_HornoadUpR.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,9 +58,9 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_FrogUp","path":"sprites/spr_FrogUp/spr_FrogUp.yy",},
+    "parent": {"name":"spr_HornoadUpR","path":"sprites/spr_HornoadUpR/spr_HornoadUpR.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_FrogUp",
+    "name": "spr_HornoadUpR",
     "tags": [],
     "resourceType": "GMSequence",
   },
@@ -69,11 +69,11 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Enemies",
-    "path": "folders/Sprites/Enemies.yy",
+    "name": "Hornoad",
+    "path": "folders/Sprites/Enemies/Hornoad.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_FrogUp",
+  "name": "spr_HornoadUpR",
   "tags": [],
   "resourceType": "GMSprite",
 }

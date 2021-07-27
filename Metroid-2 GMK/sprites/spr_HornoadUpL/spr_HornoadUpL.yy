@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 20,
+  "bbox_right": 21,
   "bbox_top": 0,
-  "bbox_bottom": 15,
+  "bbox_bottom": 23,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 21,
-  "height": 16,
+  "width": 22,
+  "height": 24,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"f367a4a0-2f10-444b-a7e9-7c30b618a706","path":"sprites/spr_FrogDown/spr_FrogDown.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f367a4a0-2f10-444b-a7e9-7c30b618a706","path":"sprites/spr_FrogDown/spr_FrogDown.yy",},"LayerId":{"name":"a0315b4e-e772-4415-80b2-31355fe5cfba","path":"sprites/spr_FrogDown/spr_FrogDown.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_FrogDown","path":"sprites/spr_FrogDown/spr_FrogDown.yy",},"resourceVersion":"1.0","name":"f367a4a0-2f10-444b-a7e9-7c30b618a706","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"784ba414-9e52-4548-8a1b-70cae3eadf38","path":"sprites/spr_HornoadUpL/spr_HornoadUpL.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"784ba414-9e52-4548-8a1b-70cae3eadf38","path":"sprites/spr_HornoadUpL/spr_HornoadUpL.yy",},"LayerId":{"name":"2204c51c-b5f8-4b30-b924-6c53116afcd4","path":"sprites/spr_HornoadUpL/spr_HornoadUpL.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_HornoadUpL","path":"sprites/spr_HornoadUpL/spr_HornoadUpL.yy",},"resourceVersion":"1.0","name":"784ba414-9e52-4548-8a1b-70cae3eadf38","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_FrogDown","path":"sprites/spr_FrogDown/spr_FrogDown.yy",},
+    "spriteId": {"name":"spr_HornoadUpL","path":"sprites/spr_HornoadUpL/spr_HornoadUpL.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"830690db-65e6-4862-a7e4-2a92feb17fba","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f367a4a0-2f10-444b-a7e9-7c30b618a706","path":"sprites/spr_FrogDown/spr_FrogDown.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"1199c72c-1fe3-45d6-bff3-d6ba70845745","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"784ba414-9e52-4548-8a1b-70cae3eadf38","path":"sprites/spr_HornoadUpL/spr_HornoadUpL.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,22 +58,22 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_FrogDown","path":"sprites/spr_FrogDown/spr_FrogDown.yy",},
+    "parent": {"name":"spr_HornoadUpL","path":"sprites/spr_HornoadUpL/spr_HornoadUpL.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_FrogDown",
+    "name": "spr_HornoadUpL",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"a0315b4e-e772-4415-80b2-31355fe5cfba","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"2204c51c-b5f8-4b30-b924-6c53116afcd4","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Enemies",
-    "path": "folders/Sprites/Enemies.yy",
+    "name": "Hornoad",
+    "path": "folders/Sprites/Enemies/Hornoad.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_FrogDown",
+  "name": "spr_HornoadUpL",
   "tags": [],
   "resourceType": "GMSprite",
 }
