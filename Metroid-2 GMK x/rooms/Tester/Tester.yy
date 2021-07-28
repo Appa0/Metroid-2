@@ -3,7 +3,7 @@
   "volume": 1.0,
   "parentRoom": null,
   "views": [
-    {"inherit":false,"visible":true,"xview":0,"yview":0,"wview":1000,"hview":900,"xport":0,"yport":0,"wport":1000,"hport":900,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":{"name":"Samus","path":"objects/Samus/Samus.yy",},},
+    {"inherit":false,"visible":true,"xview":0,"yview":0,"wview":1000,"hview":900,"xport":0,"yport":0,"wport":1000,"hport":900,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":{"name":"","path":"",},},
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
@@ -14,7 +14,6 @@
   ],
   "layers": [
     {"instances":[
-        {"properties":[],"isDnd":false,"objectId":{"name":"Samus","path":"objects/Samus/Samus.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":6.31402063,"scaleY":6.31402063,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":128.0,"y":656.0,"resourceVersion":"1.0","name":"inst_34267499","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"basic","path":"objects/basic/basic.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":832.0,"resourceVersion":"1.0","name":"inst_3FE2F575","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"basic","path":"objects/basic/basic.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":320.0,"y":864.0,"resourceVersion":"1.0","name":"inst_70B46170","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"basic","path":"objects/basic/basic.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":336.0,"y":864.0,"resourceVersion":"1.0","name":"inst_1BF46F59","tags":[],"resourceType":"GMRInstance",},
@@ -63,7 +62,6 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_34267499","path":"rooms/Tester/Tester.yy",},
     {"name":"inst_3FE2F575","path":"rooms/Tester/Tester.yy",},
     {"name":"inst_70B46170","path":"rooms/Tester/Tester.yy",},
     {"name":"inst_1BF46F59","path":"rooms/Tester/Tester.yy",},
