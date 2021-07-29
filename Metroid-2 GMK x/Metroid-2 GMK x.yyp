@@ -25,7 +25,6 @@
     {"id":{"name":"SamusBallL","path":"sprites/SamusBallL/SamusBallL.yy",},"order":8,},
     {"id":{"name":"SamusGunRunR","path":"sprites/SamusGunRunR/SamusGunRunR.yy",},"order":11,},
     {"id":{"name":"SamusSpinL","path":"sprites/SamusSpinL/SamusSpinL.yy",},"order":5,},
-    {"id":{"name":"Test","path":"objects/Test/Test.yy",},"order":7,},
     {"id":{"name":"spr_HornoadUpL","path":"sprites/spr_HornoadUpL/spr_HornoadUpL.yy",},"order":2,},
     {"id":{"name":"Tester","path":"rooms/Tester/Tester.yy",},"order":0,},
   ],
