@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"SamusCrouchL","path":"sprites/SamusCrouchL/SamusCrouchL.yy",},"order":20,},
     {"id":{"name":"SamusSpiderL","path":"sprites/SamusSpiderL/SamusSpiderL.yy",},"order":10,},
     {"id":{"name":"obj_Hornoad","path":"objects/obj_Hornoad/obj_Hornoad.yy",},"order":0,},
     {"id":{"name":"SamusSpinR","path":"sprites/SamusSpinR/SamusSpinR.yy",},"order":4,},
@@ -17,12 +18,15 @@
     {"id":{"name":"FloorTest","path":"objects/FloorTest/FloorTest.yy",},"order":5,},
     {"id":{"name":"spr_HornoadDownR","path":"sprites/spr_HornoadDownR/spr_HornoadDownR.yy",},"order":1,},
     {"id":{"name":"SamusAirUpL","path":"sprites/SamusAirUpL/SamusAirUpL.yy",},"order":14,},
+    {"id":{"name":"SamusAirR","path":"sprites/SamusAirR/SamusAirR.yy",},"order":17,},
     {"id":{"name":"SamusAirDownR","path":"sprites/SamusAirDownR/SamusAirDownR.yy",},"order":15,},
     {"id":{"name":"basic","path":"objects/basic/basic.yy",},"order":0,},
     {"id":{"name":"obj_Samus","path":"objects/obj_Samus/obj_Samus.yy",},"order":6,},
+    {"id":{"name":"SamusCrouchR","path":"sprites/SamusCrouchR/SamusCrouchR.yy",},"order":19,},
     {"id":{"name":"SamusStandR","path":"sprites/SamusStandR/SamusStandR.yy",},"order":0,},
     {"id":{"name":"SamusAirDownL","path":"sprites/SamusAirDownL/SamusAirDownL.yy",},"order":16,},
     {"id":{"name":"SamusBallL","path":"sprites/SamusBallL/SamusBallL.yy",},"order":8,},
+    {"id":{"name":"SamusAirL","path":"sprites/SamusAirL/SamusAirL.yy",},"order":18,},
     {"id":{"name":"SamusGunRunR","path":"sprites/SamusGunRunR/SamusGunRunR.yy",},"order":11,},
     {"id":{"name":"SamusSpinL","path":"sprites/SamusSpinL/SamusSpinL.yy",},"order":5,},
     {"id":{"name":"Test","path":"objects/Test/Test.yy",},"order":7,},

@@ -9,13 +9,13 @@
   "swfPrecision": 2.525,
   "bbox_left": 0,
   "bbox_right": 23,
-  "bbox_top": 0,
-  "bbox_bottom": 37,
+  "bbox_top": -18,
+  "bbox_bottom": 28,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 21,
-  "height": 28,
+  "width": 25,
+  "height": 29,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"64d72402-2ca2-43b4-9969-dd965045022d","path":"sprites/SamusAirDownL/SamusAirDownL.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"64d72402-2ca2-43b4-9969-dd965045022d","path":"sprites/SamusAirDownL/SamusAirDownL.yy",},"LayerId":{"name":"6d951451-9d5f-4be2-996d-9ce185517e36","path":"sprites/SamusAirDownL/SamusAirDownL.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"SamusAirDownL","path":"sprites/SamusAirDownL/SamusAirDownL.yy",},"resourceVersion":"1.0","name":"64d72402-2ca2-43b4-9969-dd965045022d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"6b92ee9c-ce17-4ddd-b026-9760168f1f33","path":"sprites/SamusAirL/SamusAirL.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"6b92ee9c-ce17-4ddd-b026-9760168f1f33","path":"sprites/SamusAirL/SamusAirL.yy",},"LayerId":{"name":"15d94296-74fb-4bda-90d8-23be03922888","path":"sprites/SamusAirL/SamusAirL.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"SamusAirL","path":"sprites/SamusAirL/SamusAirL.yy",},"resourceVersion":"1.0","name":"6b92ee9c-ce17-4ddd-b026-9760168f1f33","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"SamusAirDownL","path":"sprites/SamusAirDownL/SamusAirDownL.yy",},
+    "spriteId": {"name":"SamusAirL","path":"sprites/SamusAirL/SamusAirL.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"6ed6bdfb-7cea-4ee2-a571-298ae09b43f1","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"64d72402-2ca2-43b4-9969-dd965045022d","path":"sprites/SamusAirDownL/SamusAirDownL.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"329e6374-6f38-4664-b9ba-d030d5aefec7","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6b92ee9c-ce17-4ddd-b026-9760168f1f33","path":"sprites/SamusAirL/SamusAirL.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -54,18 +54,18 @@
     "backdropHeight": 768,
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
-    "xorigin": 10,
-    "yorigin": 28,
+    "xorigin": 12,
+    "yorigin": 29,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"SamusAirDownL","path":"sprites/SamusAirDownL/SamusAirDownL.yy",},
+    "parent": {"name":"SamusAirL","path":"sprites/SamusAirL/SamusAirL.yy",},
     "resourceVersion": "1.3",
-    "name": "SamusAirDownL",
+    "name": "SamusAirL",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"6d951451-9d5f-4be2-996d-9ce185517e36","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"15d94296-74fb-4bda-90d8-23be03922888","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites/Samus.yy",
   },
   "resourceVersion": "1.0",
-  "name": "SamusAirDownL",
+  "name": "SamusAirL",
   "tags": [],
   "resourceType": "GMSprite",
 }

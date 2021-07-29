@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "SamusStand",
+    "path": "sprites/SamusStand/SamusStand.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,

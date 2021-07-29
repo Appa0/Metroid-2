@@ -1,3 +1,6 @@
+
+if varmorph = 0
+{
 jumped = 1
 if place_free(x,y+1) = false
 	{
@@ -9,3 +12,4 @@ if varDir = 1 {
 	if varDir = 2{
 	sprite_index = SamusAirR
 	}
+}
