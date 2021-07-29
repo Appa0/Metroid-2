@@ -4,6 +4,7 @@
     {"id":{"name":"obj_Hornoad","path":"objects/obj_Hornoad/obj_Hornoad.yy",},"order":0,},
     {"id":{"name":"SamusSpinR","path":"sprites/SamusSpinR/SamusSpinR.yy",},"order":4,},
     {"id":{"name":"SamusRunR","path":"sprites/SamusRunR/SamusRunR.yy",},"order":2,},
+    {"id":{"name":"Test_George","path":"objects/Test_George/Test_George.yy",},"order":8,},
     {"id":{"name":"SamusSpiderR","path":"sprites/SamusSpiderR/SamusSpiderR.yy",},"order":9,},
     {"id":{"name":"spr_HornoadDownL","path":"sprites/spr_HornoadDownL/spr_HornoadDownL.yy",},"order":0,},
     {"id":{"name":"SamusBallR","path":"sprites/SamusBallR/SamusBallR.yy",},"order":7,},
