@@ -14,6 +14,7 @@
     {"id":{"name":"SamusGunRunL","path":"sprites/SamusGunRunL/SamusGunRunL.yy",},"order":12,},
     {"id":{"name":"sprFloor","path":"sprites/sprFloor/sprFloor.yy",},"order":3,},
     {"id":{"name":"SamusRunL","path":"sprites/SamusRunL/SamusRunL.yy",},"order":3,},
+    {"id":{"name":"Test_Sam","path":"objects/Test_Sam/Test_Sam.yy",},"order":8,},
     {"id":{"name":"FloorTest","path":"objects/FloorTest/FloorTest.yy",},"order":5,},
     {"id":{"name":"spr_HornoadDownR","path":"sprites/spr_HornoadDownR/spr_HornoadDownR.yy",},"order":1,},
     {"id":{"name":"SamusAirUpL","path":"sprites/SamusAirUpL/SamusAirUpL.yy",},"order":14,},
