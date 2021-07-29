@@ -8,7 +8,7 @@ else
 		gravity = 0 
 	}
 
-//Direction
+//Direction Face
 if global.varDirSamus = 2 && instance_exists(obj_Samus)
 	{ 
 move_towards_point(obj_Samus.x,y,0);
