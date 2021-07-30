@@ -59,6 +59,7 @@ if varmorph = 1
 	}
 
 if varmorph = 2
+<<<<<<< HEAD
 	{
 		if varDir = 1
 			{
@@ -69,3 +70,11 @@ if varmorph = 2
 				sprite_index = SamusBallL
 			}
 	}
+=======
+{
+	if varDir = 1{
+	sprite_index = SamusBallR}
+	if varDir = 2{
+		sprite_index = SamusBallL}
+}
+>>>>>>> parent of 47296da (Hornoad Update)

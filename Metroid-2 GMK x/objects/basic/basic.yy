@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Walls",
-    "path": "folders/Objects/Walls.yy",
+    "name": "walls",
+    "path": "folders/Objects/walls.yy",
   },
   "resourceVersion": "1.0",
   "name": "basic",
