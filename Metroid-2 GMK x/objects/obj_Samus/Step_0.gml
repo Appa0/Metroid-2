@@ -49,3 +49,5 @@ if varmorph = 2
 	if varDir = 2{
 		sprite_index = SamusBallL}
 }
+
+varDir = global.varDirSamus
