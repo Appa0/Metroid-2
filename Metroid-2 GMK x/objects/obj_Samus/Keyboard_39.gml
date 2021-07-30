@@ -1,4 +1,4 @@
-if varmorph = 0
+if varmorph = 0 and place_empty(x+8,y,FloorTest)
 {
 x += 8;
 }

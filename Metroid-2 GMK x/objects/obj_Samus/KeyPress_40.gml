@@ -1,10 +1,10 @@
 	//MORPHBALL HELL
-		if !place_free(x, y+1) and varmorph = 1
+		if !place_empty(x, y+1,FloorTest) and varmorph = 1
 		{
 			varmorph = 2;
 		}
 
-	if !place_free(x, y+1) and varmorph = 0
+	if !place_empty(x, y+1,FloorTest) and varmorph = 0
 	{
 		varmorph = 1;
 	}

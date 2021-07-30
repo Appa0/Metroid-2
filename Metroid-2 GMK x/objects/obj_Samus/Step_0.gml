@@ -1,9 +1,9 @@
 
-if varDir = 1 and !place_free(x, y+1) and !keyboard_check(vk_left) and !keyboard_check(vk_up)
+if varDir = 1 and !place_empty(x, y+1,FloorTest) and !keyboard_check(vk_left) and !keyboard_check(vk_up)
 {
 	sprite_index = SamusStandL
 }
-if varDir = 2 and !place_free(x, y+1) and !keyboard_check(vk_right) and !keyboard_check(vk_up)
+if varDir = 2 and !place_empty(x, y+1,FloorTest) and !keyboard_check(vk_right) and !keyboard_check(vk_up)
 {
 	sprite_index = SamusStandR
 }
@@ -12,7 +12,7 @@ if keyboard_check(vk_left) and keyboard_check(vk_right) and !place_free(x, y+1)
 	sprite_index = SamusStand
 }
 //gravity
-if place_free(x, y+1)
+if place_empty(x, y+1,FloorTest)
 	{
 	gravity = 0.2;
 	}
@@ -24,7 +24,7 @@ else
 //	vspeed = 10
 //}
 
-if jumped = 1 and place_free(x, y+1) and !keyboard_check(vk_up) and !keyboard_check(vk_down) {
+if jumped = 1 and place_empty(x, y+1,FloorTest) and !keyboard_check(vk_up) and !keyboard_check(vk_down) {
 	if varDir = 1 {
 	sprite_index = SamusAirL
 	}

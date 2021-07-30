@@ -3,7 +3,7 @@
     "name": "SamusStand",
     "path": "sprites/SamusStand/SamusStand.yy",
   },
-  "solid": true,
+  "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,

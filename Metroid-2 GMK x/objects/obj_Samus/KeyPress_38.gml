@@ -1,9 +1,9 @@
 	//MORPHBALL why
-	if !place_free(x, y+1) and varmorph = 1
+	if !place_empty(x, y+1,FloorTest) and varmorph = 1
 	{
 		varmorph = 0;
 	}
-		if !place_free(x, y+1) and varmorph = 2
+		if !place_empty(x, y+1,FloorTest) and varmorph = 2
 		{
 			varmorph = 1;
 		}
