@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "SamusSpiderL",
-    "path": "sprites/SamusSpiderL/SamusSpiderL.yy",
+    "name": "sprFloor",
+    "path": "sprites/sprFloor/sprFloor.yy",
   },
   "solid": true,
   "visible": true,
@@ -24,11 +24,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Terrain",
-    "path": "folders/Objects/Terrain.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "basic",
+  "name": "FloorTest",
   "tags": [],
   "resourceType": "GMObject",
 }

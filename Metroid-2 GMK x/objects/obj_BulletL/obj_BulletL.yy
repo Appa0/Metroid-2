@@ -29,8 +29,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Samus Bullets",
+    "path": "folders/Objects/Items/Samus Bullets.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_BulletL",

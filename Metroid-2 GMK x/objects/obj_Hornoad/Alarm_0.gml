@@ -1,1 +1,2 @@
-Iframe = 0
+//Turning Off Invincible Frames
+varIframe = 0

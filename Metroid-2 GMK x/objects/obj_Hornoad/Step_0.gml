@@ -8,37 +8,84 @@ else
 		gravity = 0 
 	}
 
-//Direction Face
-/*
-if global.varDirSamus = 2 or 1 && instance_exists(obj_Samus)
-	{ 
-move_towards_point(obj_Samus.x,y,3);
-
-	if obj_Samus.x > x 
-		{
-			sprite_index = spr_HornoadDownR;
-		}
-	else sprite_index = spr_HornoadDownL;
-}
-else speed = 0;
-*/
+//Heath
+if health = 0
+	{
+		instance_destroy()
+	}
 
 //Movement
-
-if place_empty(x, y+1,FloorTest)
+if place_empty(x, y+1,FloorTest) and place_free(x - 6, y) and place_free(x + 6, y)
 	{
 		x = x - 5
-
 	}
-if health = 0
-{
-	instance_destroy()
-}
-random_range(1,10)
+else hspeed = 0
 
-if Iframe = 1
-{
-image_alpha = 0.2
-}
-else
-image_alpha = 100
+
+//Damage Dimming
+if varIframe = 1
+	{
+		image_alpha = 0.2
+	}
+else image_alpha = 100
+
+/*
+//Dictating Movement Directions
+//Reverse direction when next to wall
+if !place_free(x-1, y) and varLeap = 0
+	{
+		varDir = 2
+		alarm_set(1,1)
+	}
+	
+if !place_free(x+1, y) and varLeap = 0
+	{
+		varDir = 1
+		alarm_set(1,1)
+	}
+
+//Continue moving when next to free space
+if place_free(x-1, y) and varLeap = 0
+	{
+		varDir = 1
+		alarm_set(1,1)
+	}
+
+if place_free(x+1, y) and varLeap = 0
+	{
+		varDir = 2
+		alarm_set(1,1)
+	}
+*/
+
+
+//Movement Sprites
+if place_free(x, y+1) 
+	{
+		if varDir = 1
+			{
+				sprite_index = spr_HornoadUpL
+			}
+		if varDir = 2
+			{
+				sprite_index = spr_HornoadUpR
+			}
+	}
+
+if !place_free(x,y+1)
+	{
+		if varDir = 1
+			{
+				sprite_index = spr_HornoadDownL
+			}
+		if varDir = 2
+			{
+				sprite_index = spr_HornoadDownR
+			}
+	}
+		
+
+
+
+
+

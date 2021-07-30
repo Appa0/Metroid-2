@@ -1,55 +1,69 @@
 
+global.varDirSamus = varDir;
+global.varmorph = varmorph
+
 if varDir = 1 and !place_empty(x, y+1,FloorTest) and !keyboard_check(vk_left) and !keyboard_check(vk_up)
-{
-	sprite_index = SamusStandL
-}
+	{
+		sprite_index = SamusStandL
+	}
 if varDir = 2 and !place_empty(x, y+1,FloorTest) and !keyboard_check(vk_right) and !keyboard_check(vk_up)
-{
-	sprite_index = SamusStandR
-}
+	{
+		sprite_index = SamusStandR
+	}
 if keyboard_check(vk_left) and keyboard_check(vk_right) and !place_free(x, y+1)
-{
-	sprite_index = SamusStand
-}
-//gravity
+	{
+		sprite_index = SamusStand
+	}
+
+//Gravity
 if place_empty(x, y+1,FloorTest)
 	{
-	gravity = 0.25;
+		gravity = 0.25;
 	}
-else
-	{
-	gravity = 0
-	}
+else gravity = 0
+
 //if vspeed >10 {
 //	vspeed = 10
 //}
 
-if jumped = 1 and place_empty(x, y+1,FloorTest) and !keyboard_check(vk_up) and !keyboard_check(vk_down) {
-	if varDir = 1 {
-	sprite_index = SamusAirL
+//In Air Sprites
+if jumped = 1 and place_empty(x, y+1,FloorTest) and !keyboard_check(vk_up) and !keyboard_check(vk_down) 
+	{
+		if varDir = 1 
+			{
+				sprite_index = SamusAirL
+			}
+		if varDir = 2
+			{
+				sprite_index = SamusAirR
+			}
 	}
-	if varDir = 2{
-	sprite_index = SamusAirR
-	}
-}
 
-global.varDirSamus = varDir;
-//morphball heaven
+//Settings Morphball Sprites
 if varmorph = 1
-{
-	if varDir = 1{
-	sprite_index = SamusCrouchL}
-	if varDir = 2{
-		sprite_index = SamusCrouchR}
-}
+	{
+		if varDir = 1
+			{
+				sprite_index = SamusCrouchL
+			}
+		if varDir = 2
+			{
+				sprite_index = SamusCrouchR
+			}
+	}
+
 if varmorph = 2
-{
-	if varDir = 1{
-	sprite_index = SamusBallR}
-	if varDir = 2{
-		sprite_index = SamusBallL}
-}
-global.varmorph = varmorph
+	{
+		if varDir = 1
+			{
+				sprite_index = SamusBallR
+			}
+		if varDir = 2
+			{
+				sprite_index = SamusBallL
+			}
+	}
+
 
 //visual indication of invincibility framez
 if varIframes = 1

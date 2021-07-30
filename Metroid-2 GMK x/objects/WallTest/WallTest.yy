@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "SamusSpiderL",
-    "path": "sprites/SamusSpiderL/SamusSpiderL.yy",
+    "name": "sprFloor",
+    "path": "sprites/sprFloor/sprFloor.yy",
   },
   "solid": true,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects/Terrain.yy",
   },
   "resourceVersion": "1.0",
-  "name": "basic",
+  "name": "WallTest",
   "tags": [],
   "resourceType": "GMObject",
 }
