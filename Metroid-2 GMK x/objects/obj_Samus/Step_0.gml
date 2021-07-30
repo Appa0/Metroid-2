@@ -77,6 +77,10 @@ if varmorph = 2
 	if varDir = 2{
 		sprite_index = SamusBallL}
 <<<<<<< HEAD
+<<<<<<< HEAD
+}
+>>>>>>> parent of 47296da (Hornoad Update)
+=======
 }
 >>>>>>> parent of 47296da (Hornoad Update)
 =======
