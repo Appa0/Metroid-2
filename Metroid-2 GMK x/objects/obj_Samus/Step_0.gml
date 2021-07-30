@@ -1,9 +1,9 @@
 
-if varDir = 1 and !place_free(x, y+1) and !keyboard_check(vk_left)
+if varDir = 1 and !place_free(x, y+1) and !keyboard_check(vk_left) and !keyboard_check(vk_up)
 {
 	sprite_index = SamusStandL
 }
-if varDir = 2 and !place_free(x, y+1) and !keyboard_check(vk_right)
+if varDir = 2 and !place_free(x, y+1) and !keyboard_check(vk_right) and !keyboard_check(vk_up)
 {
 	sprite_index = SamusStandR
 }
@@ -49,3 +49,4 @@ if varmorph = 2
 	if varDir = 2{
 		sprite_index = SamusBallL}
 }
+global.varmorph = varmorph
