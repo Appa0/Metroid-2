@@ -9,18 +9,13 @@ else
 	}
 
 //Direction Movement
-
-if global.varDirSamus = 2 && instance_exists(obj_Samus)
+/*
+if global.varDirSamus = 2 or 1 && instance_exists(obj_Samus)
 	{ 
 		move_towards_point(obj_Samus.x,y,3);
 	}
 else speed = 0;
-
-if global.varDirSamus = 1 && instance_exists(obj_Samus)
-	{ 
-		move_towards_point(obj_Samus.x,y,3);
-	}
-else speed = 0;
+*/
 
 //Direction Facing
 if obj_Samus.x > x 
