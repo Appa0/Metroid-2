@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "SamusBulletL",
-    "path": "sprites/SamusBulletL/SamusBulletL.yy",
+    "name": "SamusBulletD",
+    "path": "sprites/SamusBulletD/SamusBulletD.yy",
   },
   "solid": false,
   "visible": true,
@@ -31,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_BulletR",
+  "name": "obj_BulletDown",
   "tags": [],
   "resourceType": "GMObject",
 }
