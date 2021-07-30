@@ -5,7 +5,7 @@ if varmorph = 0
 		
 		if place_empty(x, y+1,FloorTest) = false
 			{
-				vspeed = -11
+				vspeed = -12
 			}
 		if varDir = 1 
 			{

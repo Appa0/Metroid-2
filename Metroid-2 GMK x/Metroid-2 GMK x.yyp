@@ -20,6 +20,7 @@
     {"id":{"name":"SamusAirUpR","path":"sprites/SamusAirUpR/SamusAirUpR.yy",},"order":13,},
     {"id":{"name":"SamusBulletL","path":"sprites/SamusBulletL/SamusBulletL.yy",},"order":23,},
     {"id":{"name":"SamusStandL","path":"sprites/SamusStandL/SamusStandL.yy",},"order":1,},
+    {"id":{"name":"GameOver","path":"rooms/GameOver/GameOver.yy",},"order":1,},
     {"id":{"name":"two","path":"sprites/two/two.yy",},"order":6,},
     {"id":{"name":"obj_BulletDown","path":"objects/obj_BulletDown/obj_BulletDown.yy",},"order":11,},
     {"id":{"name":"SamusUpR","path":"sprites/SamusUpR/SamusUpR.yy",},"order":21,},
@@ -61,6 +62,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"Tester","path":"rooms/Tester/Tester.yy",},},
+    {"roomId":{"name":"GameOver","path":"rooms/GameOver/GameOver.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

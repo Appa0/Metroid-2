@@ -14,7 +14,7 @@ if keyboard_check(vk_left) and keyboard_check(vk_right) and !place_free(x, y+1)
 //gravity
 if place_empty(x, y+1,FloorTest)
 	{
-	gravity = 0.2;
+	gravity = 0.25;
 	}
 else
 	{
@@ -50,3 +50,17 @@ if varmorph = 2
 		sprite_index = SamusBallL}
 }
 global.varmorph = varmorph
+
+//visual indication of invincibility framez
+if varIframes = 1
+{
+image_alpha = 0.2
+}
+else
+image_alpha = 100
+
+if global.Samushealth <= 0
+{
+room_goto(GameOver)
+instance_destroy()
+}

@@ -1,6 +1,7 @@
 varDir = 2;
+varIframes = 0
 global.varDirSamus = 2;
-health = 99;
+global.Samushealth = 99;
 varmorph = 0;
 jumped = 0
 image_xscale = 5
