@@ -29,6 +29,10 @@ if varIframe = 1
 	}
 else image_alpha = 100
 
+
+
+///Not Working
+/*
 //Dictating Movement Directions
 //Reverse direction when next to wall
 if !place_free(x-1, y) and varLeap = 0
@@ -39,9 +43,9 @@ if !place_free(x-1, y) and varLeap = 0
 if !place_free(x+1, y) and varLeap = 0
 	{
 		
-		varDir = 2
+		varDir = 1
 	}
-/*
+
 //Continue moving when next to free space
 if place_free(x-1, y) and varLeap = 0 and varDir = 1
 	{
