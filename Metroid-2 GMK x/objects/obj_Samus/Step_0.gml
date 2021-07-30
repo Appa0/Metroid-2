@@ -14,11 +14,11 @@ if keyboard_check(vk_left) and keyboard_check(vk_right) and !place_free(x, y+1)
 //gravity
 if place_free(x, y+1)
 	{
-	gravity = 0.3;
+	gravity = 0.2;
 	}
 else
 	{
-	gravity = 0 gravity_direction = 270;
+	gravity = 0
 	}
 //if vspeed >10 {
 //	vspeed = 10
