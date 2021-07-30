@@ -29,35 +29,30 @@ if varIframe = 1
 	}
 else image_alpha = 100
 
-/*
 //Dictating Movement Directions
 //Reverse direction when next to wall
 if !place_free(x-1, y) and varLeap = 0
 	{
 		varDir = 2
-		alarm_set(1,1)
 	}
 	
 if !place_free(x+1, y) and varLeap = 0
 	{
-		varDir = 1
-		alarm_set(1,1)
+		
+		varDir = 2
 	}
-
+/*
 //Continue moving when next to free space
-if place_free(x-1, y) and varLeap = 0
+if place_free(x-1, y) and varLeap = 0 and varDir = 1
 	{
 		varDir = 1
-		alarm_set(1,1)
 	}
 
-if place_free(x+1, y) and varLeap = 0
+if place_free(x+1, y) and varLeap = 0 and varDir = 2
 	{
 		varDir = 2
-		alarm_set(1,1)
 	}
 */
-
 
 //Movement Sprites
 if place_free(x, y+1) 
@@ -66,6 +61,7 @@ if place_free(x, y+1)
 			{
 				sprite_index = spr_HornoadUpL
 			}
+			
 		if varDir = 2
 			{
 				sprite_index = spr_HornoadUpR

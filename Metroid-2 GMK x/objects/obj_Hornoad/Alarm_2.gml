@@ -1,6 +1,5 @@
 ///Jumping Left
 
-
 //Vspeed Movements
 varAir = 1
 vspeed = -10

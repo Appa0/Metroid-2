@@ -67,14 +67,13 @@ if varmorph = 2
 
 //visual indication of invincibility framez
 if varIframes = 1
-{
-image_alpha = 0.2
-}
-else
-image_alpha = 100
+	{
+		image_alpha = 0.2
+	}
+else image_alpha = 100
 
 if global.Samushealth <= 0
-{
-room_goto(GameOver)
-instance_destroy()
-}
+	{
+		room_goto(GameOver)
+		instance_destroy()
+	}
