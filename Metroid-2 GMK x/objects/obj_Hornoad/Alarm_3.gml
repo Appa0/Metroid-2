@@ -2,7 +2,7 @@
 
 //Vspeed Movements
 varAir = 1
-vspeed = +10
+vspeed = 10
 varLeap = 0
 
 //Reset Jump Timing

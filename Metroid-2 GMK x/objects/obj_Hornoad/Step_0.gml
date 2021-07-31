@@ -30,22 +30,11 @@ if varAir = 1
 		
 		if varDir = 2 and place_free(x+6, y)
 			{
-				hspeed = +5
+				hspeed = 5
 			}
 	}
 else hspeed = 0
 
-
-/*
-///Tweaking
-
-//Movement
-if place_empty(x, y+1,FloorTest) and place_free(x - 6, y) and place_free(x + 6, y)
-	{
-		x = x - 5
-	}
-else hspeed = 0
-*/
 
 
 //Damage Dimming
@@ -58,20 +47,18 @@ else image_alpha = 100
 
 
 
-
-
 ///Not Working
 
 ///Dictating Movement Directions
 //Reverse direction when next to wall
 if varAir = 0
 	{
-		if !place_free(x-1, y)
+		if !place_free(x-3, y)
 			{
 				varDir = 2
 			}
 
-		if !place_free(x+1, y) and varLeap = 0
+		if !place_free(x+3, y)
 			{
 		
 				varDir = 1

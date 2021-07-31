@@ -1,6 +1,5 @@
 //Jumping Movements
 
-varLeap = 1
 
 if varDir = 1
 	{
