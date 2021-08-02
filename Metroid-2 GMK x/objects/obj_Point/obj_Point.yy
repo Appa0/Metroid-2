@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "Point",
+    "path": "sprites/Point/Point.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -21,11 +24,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Enemies",
-    "path": "folders/Objects/Enemies.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Object11",
+  "name": "obj_Point",
   "tags": [],
   "resourceType": "GMObject",
 }
