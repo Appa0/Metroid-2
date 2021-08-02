@@ -1,3 +1,9 @@
+cx = camera_get_view_x(view_camera[0]);
+cy = camera_get_view_y(view_camera[0]);
+
+x = cx + xDif;
+y = cy + yDif;
+
 varRoundedHealth = floor(global.Samushealth/10)
 switch (varRoundedHealth)
 {
