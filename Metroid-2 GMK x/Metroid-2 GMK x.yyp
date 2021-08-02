@@ -62,7 +62,6 @@
     {"id":{"name":"SamusGunRunR","path":"sprites/SamusGunRunR/SamusGunRunR.yy",},"order":11,},
     {"id":{"name":"SamusSpinL","path":"sprites/SamusSpinL/SamusSpinL.yy",},"order":5,},
     {"id":{"name":"spr_HornoadUpL","path":"sprites/spr_HornoadUpL/spr_HornoadUpL.yy",},"order":2,},
-    {"id":{"name":"Tester","path":"rooms/Tester/Tester.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Linux","path":"options/linux/options_linux.yy",},
@@ -79,7 +78,6 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"Test","path":"rooms/Test/Test.yy",},},
-    {"roomId":{"name":"Tester","path":"rooms/Tester/Tester.yy",},},
     {"roomId":{"name":"GameOver","path":"rooms/GameOver/GameOver.yy",},},
   ],
   "Folders": [
