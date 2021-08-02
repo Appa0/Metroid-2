@@ -1,4 +1,6 @@
 
+varDir = 1
+
 //Instance Heath Variable
 varHhealth = 2
 

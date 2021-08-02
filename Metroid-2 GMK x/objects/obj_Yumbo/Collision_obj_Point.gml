@@ -1,13 +1,12 @@
 
 hspeed = -hspeed
 
-if hspeed > 0
+varDir = 1
 	{
-		image_index = spr_YumboL
+		varDir = 2
 	}
 	
-if hspeed < 0
+varDir = 2
 	{
-		image_index = spr_YumboR
+		varDir = 1
 	}
-
