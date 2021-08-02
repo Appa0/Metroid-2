@@ -1,3 +1,3 @@
 
-global.Samushealth -=15;
+global.Samushealth = 44;
 //secret die button :shh:
