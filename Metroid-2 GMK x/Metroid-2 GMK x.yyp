@@ -13,6 +13,7 @@
     {"id":{"name":"obj_BulletUp","path":"objects/obj_BulletUp/obj_BulletUp.yy",},"order":3,},
     {"id":{"name":"SamusSpiderR","path":"sprites/SamusSpiderR/SamusSpiderR.yy",},"order":9,},
     {"id":{"name":"spr_HornoadDownL","path":"sprites/spr_HornoadDownL/spr_HornoadDownL.yy",},"order":0,},
+    {"id":{"name":"Test","path":"rooms/Test/Test.yy",},"order":2,},
     {"id":{"name":"one","path":"sprites/one/one.yy",},"order":5,},
     {"id":{"name":"SamusBallR","path":"sprites/SamusBallR/SamusBallR.yy",},"order":7,},
     {"id":{"name":"spr_HornoadUpR","path":"sprites/spr_HornoadUpR/spr_HornoadUpR.yy",},"order":3,},
@@ -27,6 +28,7 @@
     {"id":{"name":"SamusUpR","path":"sprites/SamusUpR/SamusUpR.yy",},"order":21,},
     {"id":{"name":"SamusGunRunL","path":"sprites/SamusGunRunL/SamusGunRunL.yy",},"order":12,},
     {"id":{"name":"sprFloor","path":"sprites/sprFloor/sprFloor.yy",},"order":3,},
+    {"id":{"name":"Object11","path":"objects/Object11/Object11.yy",},"order":1,},
     {"id":{"name":"SamusRunL","path":"sprites/SamusRunL/SamusRunL.yy",},"order":3,},
     {"id":{"name":"FloorTest","path":"objects/FloorTest/FloorTest.yy",},"order":1,},
     {"id":{"name":"SamusBulletR","path":"sprites/SamusBulletR/SamusBulletR.yy",},"order":25,},
@@ -62,6 +64,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"Test","path":"rooms/Test/Test.yy",},},
     {"roomId":{"name":"Tester","path":"rooms/Tester/Tester.yy",},},
     {"roomId":{"name":"GameOver","path":"rooms/GameOver/GameOver.yy",},},
   ],

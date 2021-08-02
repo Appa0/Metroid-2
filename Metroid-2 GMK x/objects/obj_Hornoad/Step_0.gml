@@ -9,7 +9,7 @@ else
 	}
 
 //Heath
-if health = 0
+if varHhealth = 0
 	{
 		instance_destroy()
 	}
