@@ -1,10 +1,7 @@
-///Jumping Left
 
-//Vspeed Movements
+
+
 varAir = 1
-vspeed = -10
-varLeap = 0
+vspeed = -8.5
 
-
-//Reset Jump Timing
 alarm_set(1,10)

@@ -29,9 +29,12 @@ if place_empty(x, y+1,FloorTest)
 	}
 else gravity = 0
 
-//if vspeed >10 {
-//	vspeed = 10
-//}
+/*
+if vspeed >10
+	{
+		vspeed = 10
+	}
+*/
 
 //In Air Sprites
 if jumped = 1 and place_empty(x, y+1,FloorTest) and !keyboard_check(vk_up) and !keyboard_check(vk_down) 
