@@ -1,4 +1,11 @@
-
+//if global.Samushealth <= 0
+//{
+//	global.Samushealth = 0
+//}
+//if global.Samushealth >= 99
+//
+//	global.Samushealth = 99
+//}
 global.varDirSamus = varDir;
 global.varmorph = varmorph
 
@@ -80,3 +87,4 @@ if global.Samushealth <= 0
 		room_goto(GameOver)
 		instance_destroy()
 	}
+	
