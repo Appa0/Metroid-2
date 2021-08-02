@@ -46,13 +46,10 @@ else image_alpha = 100
 
 
 
-
-///Not Working
-
 ///Dictating Movement Directions
 //Reverse direction when next to wall
-if varAir = 0
-	{
+//if varAir = 0
+	//{
 		if !place_free(x-3, y)
 			{
 				varDir = 2
@@ -74,7 +71,7 @@ if varAir = 0
 			{
 				varDir = 2
 			}
-	}
+	//}
 
 
 //Movement Sprites
