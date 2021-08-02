@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sprNine",
-    "path": "sprites/sprNine/sprNine.yy",
+    "name": "sprZero",
+    "path": "sprites/sprZero/sprZero.yy",
   },
   "solid": false,
   "visible": true,
@@ -31,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_GUIXX",
+  "name": "obj_HGUIX",
   "tags": [],
   "resourceType": "GMObject",
 }

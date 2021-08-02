@@ -31,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_GUIX",
+  "name": "obj_HGUIX",
   "tags": [],
   "resourceType": "GMObject",
 }
