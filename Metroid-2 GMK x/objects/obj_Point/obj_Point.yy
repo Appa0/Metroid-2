@@ -1,10 +1,10 @@
 {
   "spriteId": {
-    "name": "Point",
-    "path": "sprites/Point/Point.yy",
+    "name": "spr_Point",
+    "path": "sprites/spr_Point/spr_Point.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,

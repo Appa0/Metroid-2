@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"fbc8384b-892c-4140-8496-899a4b437685","path":"sprites/Point/Point.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"fbc8384b-892c-4140-8496-899a4b437685","path":"sprites/Point/Point.yy",},"LayerId":{"name":"f3ccfcfd-4810-461f-8839-3e42ced9ebd5","path":"sprites/Point/Point.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Point","path":"sprites/Point/Point.yy",},"resourceVersion":"1.0","name":"fbc8384b-892c-4140-8496-899a4b437685","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"fbc8384b-892c-4140-8496-899a4b437685","path":"sprites/spr_Point/spr_Point.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"fbc8384b-892c-4140-8496-899a4b437685","path":"sprites/spr_Point/spr_Point.yy",},"LayerId":{"name":"f3ccfcfd-4810-461f-8839-3e42ced9ebd5","path":"sprites/spr_Point/spr_Point.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_Point","path":"sprites/spr_Point/spr_Point.yy",},"resourceVersion":"1.0","name":"fbc8384b-892c-4140-8496-899a4b437685","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"Point","path":"sprites/Point/Point.yy",},
+    "spriteId": {"name":"spr_Point","path":"sprites/spr_Point/spr_Point.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"7b22ce96-0647-40b8-8987-13d5a9ab346d","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fbc8384b-892c-4140-8496-899a4b437685","path":"sprites/Point/Point.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"7b22ce96-0647-40b8-8987-13d5a9ab346d","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fbc8384b-892c-4140-8496-899a4b437685","path":"sprites/spr_Point/spr_Point.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,9 +58,9 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"Point","path":"sprites/Point/Point.yy",},
+    "parent": {"name":"spr_Point","path":"sprites/spr_Point/spr_Point.yy",},
     "resourceVersion": "1.3",
-    "name": "Point",
+    "name": "spr_Point",
     "tags": [],
     "resourceType": "GMSequence",
   },
@@ -73,7 +73,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Point",
+  "name": "spr_Point",
   "tags": [],
   "resourceType": "GMSprite",
 }
