@@ -9,7 +9,7 @@ else
 	}
 
 //Heath
-if varHhealth = 0
+if varHhealth <= 0
 	{
 		instance_destroy()
 	}
@@ -100,11 +100,4 @@ if !place_free(x,y+1)
 			}
 	}
 		
-
-if varHhealth <= 0
-{
-	varHhealth = 0
-}
-
-
 
