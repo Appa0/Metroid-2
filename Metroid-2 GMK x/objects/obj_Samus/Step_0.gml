@@ -8,18 +8,31 @@
 //}
 global.varDirSamus = varDir;
 global.varmorph = varmorph
-
+if global.varMissles <= 0
+{
+	global.varMissles = 0
+}
 if varDir = 1 and !place_empty(x, y+1,FloorTest) and !keyboard_check(vk_left) and !keyboard_check(vk_up)
 	{
-		sprite_index = SamusStandL
+		if varMissles = 0
+				{
+		sprite_index = SamusStandL;
+				}
+				else 
+				sprite_index = SamusStandMissleL;
 	}
 if varDir = 2 and !place_empty(x, y+1,FloorTest) and !keyboard_check(vk_right) and !keyboard_check(vk_up)
 	{
-		sprite_index = SamusStandR
+		if varMissles = 0
+				{
+		sprite_index = SamusStandR;
+				}
+				else
+				sprite_index = SamusStandMissleR;
 	}
 if keyboard_check(vk_left) and keyboard_check(vk_right) and !place_free(x, y+1)
 	{
-		sprite_index = SamusStand
+		sprite_index = SamusStand;
 	}
 
 //Gravity
@@ -41,11 +54,19 @@ if jumped = 1 and place_empty(x, y+1,FloorTest) and !keyboard_check(vk_up) and !
 	{
 		if varDir = 1 
 			{
-				sprite_index = SamusAirL
+				if varMissles = 0
+				{
+				sprite_index = SamusAirL;
+				}
+				else sprite_index = SamusAirMissleL;
 			}
 		if varDir = 2
 			{
-				sprite_index = SamusAirR
+				if varMissles = 0
+				{
+				sprite_index = SamusAirR;
+				}
+				else sprite_index = SamusAirMissleR;
 			}
 	}
 
@@ -54,11 +75,19 @@ if varmorph = 1
 	{
 		if varDir = 1
 			{
-				sprite_index = SamusCrouchL
+				if varMissles = 0
+				{
+				sprite_index = SamusCrouchL;
+				}
+				else sprite_index = SamusCrouchMissleL;
 			}
 		if varDir = 2
 			{
-				sprite_index = SamusCrouchR
+				if varMissles = 0
+				{
+				sprite_index = SamusCrouchR;
+				}
+				else sprite_index = SamusCrouchMissleR;
 			}
 	}
 

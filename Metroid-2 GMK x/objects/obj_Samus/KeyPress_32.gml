@@ -9,10 +9,20 @@ if varmorph = 0
 			}
 		if varDir = 1 
 			{
-				sprite_index = SamusAirL
+				if varMissles = 0
+				{
+				sprite_index = SamusAirL;
+				}
+				else 
+				sprite_index = SamusAirMissleL;
 			}
 		if varDir = 2
 			{
-				sprite_index = SamusAirR
+				if varMissles = 0
+				{
+				sprite_index = SamusAirR;
+				}
+				else 
+				sprite_index = SamusAirMissleR;
 			}
 	}
