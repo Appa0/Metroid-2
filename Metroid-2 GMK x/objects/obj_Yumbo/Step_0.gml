@@ -27,7 +27,7 @@ if varDir = 2
 	}
 
 
-if varHhealth <= 0
+if varYhealth <= 0
 {
-	varHhealth = 0
+	varYhealth = 0
 }
