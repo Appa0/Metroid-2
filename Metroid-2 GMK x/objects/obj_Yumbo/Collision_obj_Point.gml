@@ -1,12 +1,12 @@
 
 hspeed = -hspeed
 
-varDir = 1
+if varDir = 1
 	{
-		varDir = 2
+		alarm_set(1,1)
 	}
 	
-varDir = 2
+if varDir = 2
 	{
-		varDir = 1
+		alarm_set(2,1)
 	}

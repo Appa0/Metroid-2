@@ -36,8 +36,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Enemies",
-    "path": "folders/Objects/Enemies.yy",
+    "name": "Bugs",
+    "path": "folders/Objects/Enemies/Bugs.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_Hornoad",

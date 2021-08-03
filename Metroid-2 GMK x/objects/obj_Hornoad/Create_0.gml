@@ -18,4 +18,3 @@ alarm_set(1,10)
 //Image Upscaled
 image_xscale = 4
 image_yscale = 5
-

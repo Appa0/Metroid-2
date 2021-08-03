@@ -1,6 +1,6 @@
 
 //Heath
-if varHhealth = 0
+if varYhealth = 0
 	{
 		instance_destroy()
 	}
@@ -25,3 +25,5 @@ if varDir = 2
 	{
 		sprite_index = spr_YumboR
 	}
+
+
