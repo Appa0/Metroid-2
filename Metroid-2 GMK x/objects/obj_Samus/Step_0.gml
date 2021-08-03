@@ -8,7 +8,10 @@
 //}
 global.varDirSamus = varDir;
 global.varmorph = varmorph
-
+if global.varMissles <= 0
+{
+	global.varMissles = 0
+}
 if varDir = 1 and !place_empty(x, y+1,FloorTest) and !keyboard_check(vk_left) and !keyboard_check(vk_up)
 	{
 		if varMissles = 0

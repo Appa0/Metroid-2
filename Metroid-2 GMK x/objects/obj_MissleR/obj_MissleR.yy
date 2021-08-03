@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "SamusBulletL",
-    "path": "sprites/SamusBulletL/SamusBulletL.yy",
+    "name": "SamusMissleR",
+    "path": "sprites/SamusMissleR/SamusMissleR.yy",
   },
   "solid": false,
   "visible": true,
@@ -34,7 +34,7 @@
     "path": "folders/Objects/Items/Samus Bullets.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_BulletL",
+  "name": "obj_MissleR",
   "tags": [],
   "resourceType": "GMObject",
 }

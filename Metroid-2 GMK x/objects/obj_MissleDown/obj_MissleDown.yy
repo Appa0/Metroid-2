@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "SamusBulletL",
-    "path": "sprites/SamusBulletL/SamusBulletL.yy",
+    "name": "SamusMissleD",
+    "path": "sprites/SamusMissleD/SamusMissleD.yy",
   },
   "solid": false,
   "visible": true,
@@ -23,8 +23,8 @@
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"FloorTest","path":"objects/FloorTest/FloorTest.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_Hornoad","path":"objects/obj_Hornoad/obj_Hornoad.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"FloorTest","path":"objects/FloorTest/FloorTest.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_Yumbo","path":"objects/obj_Yumbo/obj_Yumbo.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
@@ -34,7 +34,7 @@
     "path": "folders/Objects/Items/Samus Bullets.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_BulletL",
+  "name": "obj_MissleDown",
   "tags": [],
   "resourceType": "GMObject",
 }
