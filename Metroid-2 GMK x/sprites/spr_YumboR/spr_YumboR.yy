@@ -70,7 +70,7 @@
   "nineSlice": null,
   "parent": {
     "name": "Yumbo",
-    "path": "folders/Sprites/Enemies/Bugs/Yumbo.yy",
+    "path": "folders/Sprites/Enemies/Yumbo.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_YumboR",

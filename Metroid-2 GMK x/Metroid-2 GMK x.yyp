@@ -7,7 +7,11 @@
     {"id":{"name":"SamusStandMissleL","path":"sprites/SamusStandMissleL/SamusStandMissleL.yy",},"order":30,},
     {"id":{"name":"SamusUpMissleR","path":"sprites/SamusUpMissleR/SamusUpMissleR.yy",},"order":27,},
     {"id":{"name":"obj_GUI","path":"objects/obj_GUI/obj_GUI.yy",},"order":8,},
+<<<<<<< HEAD
     {"id":{"name":"SamusGunRunMissleL","path":"sprites/SamusGunRunMissleL/SamusGunRunMissleL.yy",},"order":32,},
+=======
+    {"id":{"name":"spr_Point","path":"sprites/spr_Point/spr_Point.yy",},"order":7,},
+>>>>>>> parent of b48475b (Metroid Alpha Start)
     {"id":{"name":"zero","path":"sprites/zero/zero.yy",},"order":0,},
     {"id":{"name":"SamusSpiderL","path":"sprites/SamusSpiderL/SamusSpiderL.yy",},"order":10,},
     {"id":{"name":"sprEight","path":"sprites/sprEight/sprEight.yy",},"order":8,},
@@ -73,7 +77,10 @@
     {"id":{"name":"obj_Samus","path":"objects/obj_Samus/obj_Samus.yy",},"order":6,},
     {"id":{"name":"obj_MissleUp","path":"objects/obj_MissleUp/obj_MissleUp.yy",},"order":4,},
     {"id":{"name":"obj_MorphBallTest","path":"objects/obj_MorphBallTest/obj_MorphBallTest.yy",},"order":7,},
+<<<<<<< HEAD
     {"id":{"name":"obj_MissleR","path":"objects/obj_MissleR/obj_MissleR.yy",},"order":5,},
+=======
+>>>>>>> parent of b48475b (Metroid Alpha Start)
     {"id":{"name":"SamusCrouchR","path":"sprites/SamusCrouchR/SamusCrouchR.yy",},"order":19,},
     {"id":{"name":"SamusStandR","path":"sprites/SamusStandR/SamusStandR.yy",},"order":0,},
     {"id":{"name":"sprThree","path":"sprites/sprThree/sprThree.yy",},"order":3,},
@@ -130,6 +137,11 @@
     {"folderPath":"folders/Objects/Items/Samus Bullets.yy","order":4,"resourceVersion":"1.0","name":"Samus Bullets","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/GUI.yy","order":6,"resourceVersion":"1.0","name":"GUI","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Enemies/Yumbo.yy","order":1,"resourceVersion":"1.0","name":"Yumbo","tags":[],"resourceType":"GMFolder",},
+<<<<<<< HEAD
+=======
+    {"folderPath":"folders/Objects/Enemies/Bugs.yy","order":2,"resourceVersion":"1.0","name":"Bugs","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/Enemies/Metroids.yy","order":3,"resourceVersion":"1.0","name":"Metroids","tags":[],"resourceType":"GMFolder",},
+>>>>>>> parent of b48475b (Metroid Alpha Start)
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
