@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_YumboL",
+    "path": "sprites/spr_YumboL/spr_YumboL.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
