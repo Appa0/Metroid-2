@@ -101,10 +101,7 @@ if !place_free(x,y+1)
 	}
 		
 
-if varHhealth <= 0
-{
-	varHhealth = 0
-}
+
 
 
 
