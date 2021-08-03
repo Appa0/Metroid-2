@@ -8,31 +8,18 @@
 //}
 global.varDirSamus = varDir;
 global.varmorph = varmorph
-if global.varMissles <= 0
-{
-	global.varMissles = 0
-}
+
 if varDir = 1 and !place_empty(x, y+1,FloorTest) and !keyboard_check(vk_left) and !keyboard_check(vk_up)
 	{
-		if varMissles = 0
-				{
-		sprite_index = SamusStandL;
-				}
-				else 
-				sprite_index = SamusStandMissleL;
+		sprite_index = SamusStandL
 	}
 if varDir = 2 and !place_empty(x, y+1,FloorTest) and !keyboard_check(vk_right) and !keyboard_check(vk_up)
 	{
-		if varMissles = 0
-				{
-		sprite_index = SamusStandR;
-				}
-				else
-				sprite_index = SamusStandMissleR;
+		sprite_index = SamusStandR
 	}
 if keyboard_check(vk_left) and keyboard_check(vk_right) and !place_free(x, y+1)
 	{
-		sprite_index = SamusStand;
+		sprite_index = SamusStand
 	}
 
 //Gravity
@@ -54,19 +41,11 @@ if jumped = 1 and place_empty(x, y+1,FloorTest) and !keyboard_check(vk_up) and !
 	{
 		if varDir = 1 
 			{
-				if varMissles = 0
-				{
-				sprite_index = SamusAirL;
-				}
-				else sprite_index = SamusAirMissleL;
+				sprite_index = SamusAirL
 			}
 		if varDir = 2
 			{
-				if varMissles = 0
-				{
-				sprite_index = SamusAirR;
-				}
-				else sprite_index = SamusAirMissleR;
+				sprite_index = SamusAirR
 			}
 	}
 
@@ -75,19 +54,11 @@ if varmorph = 1
 	{
 		if varDir = 1
 			{
-				if varMissles = 0
-				{
-				sprite_index = SamusCrouchL;
-				}
-				else sprite_index = SamusCrouchMissleL;
+				sprite_index = SamusCrouchL
 			}
 		if varDir = 2
 			{
-				if varMissles = 0
-				{
-				sprite_index = SamusCrouchR;
-				}
-				else sprite_index = SamusCrouchMissleR;
+				sprite_index = SamusCrouchR
 			}
 	}
 

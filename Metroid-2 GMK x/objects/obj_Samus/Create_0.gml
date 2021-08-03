@@ -5,7 +5,6 @@ global.Samushealth = 99;
 global.varMissles = 30;
 varmorph = 0;
 jumped = 0;
-varMissles = 0;
 
 image_xscale = 5;
 image_yscale = 5;
