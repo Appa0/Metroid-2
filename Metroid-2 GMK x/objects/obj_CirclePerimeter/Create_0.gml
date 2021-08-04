@@ -1,5 +1,6 @@
 
+
 image_xscale = 15
 image_yscale = 15
 
-//depth = 100
+depth = 10
