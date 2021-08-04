@@ -70,7 +70,7 @@
   "nineSlice": null,
   "parent": {
     "name": "Hornoad",
-    "path": "folders/Sprites/Enemies/Hornoad.yy",
+    "path": "folders/Sprites/Enemies/Bugs/Hornoad.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_HornoadUpR",
