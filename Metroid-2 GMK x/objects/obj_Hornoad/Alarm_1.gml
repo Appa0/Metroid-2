@@ -1,3 +1,3 @@
 //Jumping Movements
 
-alarm_set(2,240)
+alarm_set(2,170)
