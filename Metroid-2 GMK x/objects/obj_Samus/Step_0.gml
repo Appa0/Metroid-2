@@ -88,3 +88,6 @@ if global.Samushealth <= 0
 		instance_destroy()
 	}
 	
+if y >= 3000 {
+	global.Samushealth -=1
+}
