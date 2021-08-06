@@ -35,6 +35,7 @@
     {"id":{"name":"SamusBallR","path":"sprites/SamusBallR/SamusBallR.yy",},"order":7,},
     {"id":{"name":"spr_HornoadUpR","path":"sprites/spr_HornoadUpR/spr_HornoadUpR.yy",},"order":3,},
     {"id":{"name":"objFadeUp","path":"objects/objFadeUp/objFadeUp.yy",},"order":15,},
+    {"id":{"name":"Test2","path":"rooms/Test2/Test2.yy",},"order":4,},
     {"id":{"name":"objStartScreen","path":"objects/objStartScreen/objStartScreen.yy",},"order":14,},
     {"id":{"name":"obj_BulletR","path":"objects/obj_BulletR/obj_BulletR.yy",},"order":2,},
     {"id":{"name":"SamusStand","path":"sprites/SamusStand/SamusStand.yy",},"order":6,},
@@ -101,8 +102,9 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"StartScreen","path":"rooms/StartScreen/StartScreen.yy",},},
-    {"roomId":{"name":"Test","path":"rooms/Test/Test.yy",},},
+    {"roomId":{"name":"Test2","path":"rooms/Test2/Test2.yy",},},
     {"roomId":{"name":"GameOver","path":"rooms/GameOver/GameOver.yy",},},
+    {"roomId":{"name":"Test","path":"rooms/Test/Test.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
