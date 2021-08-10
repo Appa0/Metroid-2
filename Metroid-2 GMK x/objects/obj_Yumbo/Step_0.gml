@@ -14,7 +14,7 @@ if varIframe = 1
 else image_alpha = 100
 
 
-
+/*
 //Sprite Direction
 if varDir = 1
 	{
@@ -25,3 +25,4 @@ if varDir = 2
 	{
 		sprite_index = spr_YumboR
 	}
+*/
