@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"784338ae-0c56-49bb-96ef-f95b65c5a237","path":"sprites/SamusAirMissleL/SamusAirMissleL.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"784338ae-0c56-49bb-96ef-f95b65c5a237","path":"sprites/SamusAirMissleL/SamusAirMissleL.yy",},"LayerId":{"name":"0e0fb864-1f70-4b5e-a2b5-801499d8e194","path":"sprites/SamusAirMissleL/SamusAirMissleL.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"SamusAirMissleL","path":"sprites/SamusAirMissleL/SamusAirMissleL.yy",},"resourceVersion":"1.0","name":"784338ae-0c56-49bb-96ef-f95b65c5a237","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"229e3449-ccaa-49b9-85d5-89b05c7715b4","path":"sprites/SamusAirMissleL/SamusAirMissleL.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"229e3449-ccaa-49b9-85d5-89b05c7715b4","path":"sprites/SamusAirMissleL/SamusAirMissleL.yy",},"LayerId":{"name":"9781c385-3877-4ebc-b43b-e05e3172abe2","path":"sprites/SamusAirMissleL/SamusAirMissleL.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"SamusAirMissleL","path":"sprites/SamusAirMissleL/SamusAirMissleL.yy",},"resourceVersion":"1.0","name":"229e3449-ccaa-49b9-85d5-89b05c7715b4","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"SamusAirMissleL","path":"sprites/SamusAirMissleL/SamusAirMissleL.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"6cce1d16-f9c2-4669-b152-0d17b42e4608","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"784338ae-0c56-49bb-96ef-f95b65c5a237","path":"sprites/SamusAirMissleL/SamusAirMissleL.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a69804d7-15da-4a9e-851d-6c326ca53c4a","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"229e3449-ccaa-49b9-85d5-89b05c7715b4","path":"sprites/SamusAirMissleL/SamusAirMissleL.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"0e0fb864-1f70-4b5e-a2b5-801499d8e194","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"9781c385-3877-4ebc-b43b-e05e3172abe2","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {

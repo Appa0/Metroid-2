@@ -1,9 +1,10 @@
 
 varDir = 1;
 
-if varmorph = 0	and place_empty(x-5,y,FloorTest)
+if place_empty(x-5,y,FloorTest) and varmorph = 0 or varmorph = 1
 	{
 		x -= 8;
+		varmorph = 0
 	}
 
 if varmorph = 2
