@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sprMissle",
-    "path": "sprites/sprMissle/sprMissle.yy",
+    "name": "sprHighJump",
+    "path": "sprites/sprHighJump/sprHighJump.yy",
   },
   "solid": false,
   "visible": true,
@@ -30,7 +30,7 @@
     "path": "folders/Objects/Items.yy",
   },
   "resourceVersion": "1.0",
-  "name": "objMissle",
+  "name": "objHighBoots",
   "tags": [],
   "resourceType": "GMObject",
 }
