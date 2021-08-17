@@ -1,7 +1,7 @@
 if varmorph = 0
 	{
 		jumped = 1
-		
+		audio_play_sound(sndJump,10,0)
 		if place_empty(x, y+1,FloorTest) = false and varHighJump = 0
 			{
 				vspeed = -10
@@ -35,5 +35,6 @@ if varmorph = 0
 		if place_empty(x, y+1,FloorTest) = false
 			{
 				vspeed = -10
+				audio_play_sound(sndJump,10,0)
 			}
 	}

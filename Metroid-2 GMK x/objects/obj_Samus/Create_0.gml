@@ -1,9 +1,5 @@
 varDir = 2;
 varIframes = 0;
-global.varDirSamus = 2;
-global.Samushealth = 99;
-global.varMissles = 40;
-global.varMissleCap = 30;
 varmorph = 0;
 jumped = 0;
 varMissles = 0;

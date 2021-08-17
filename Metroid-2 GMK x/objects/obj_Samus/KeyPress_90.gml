@@ -1,5 +1,6 @@
 if varMissles = 0
 {
+	audio_play_sound(sndShoot,10,0)
 if varDir = 2
 	{
 		if varmorph = 0 and !place_empty(x, y+1,FloorTest) and !keyboard_check(vk_up)
@@ -57,6 +58,7 @@ if varDir = 1
 }
 	if varMissles = 1 and global.varMissles >= 1
 {
+	audio_play_sound(sndNo,20,0)
 	global.varMissles -=1
 	if varDir = 2
 	{
