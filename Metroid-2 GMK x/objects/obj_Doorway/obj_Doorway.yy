@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_Highlight",
-    "path": "sprites/spr_Highlight/spr_Highlight.yy",
+    "name": "spr_Doorway",
+    "path": "sprites/spr_Doorway/spr_Doorway.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects/Terrain.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_Highlight",
+  "name": "obj_Doorway",
   "tags": [],
   "resourceType": "GMObject",
 }

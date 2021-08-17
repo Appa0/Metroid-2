@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "spr_Highlight",
-    "path": "sprites/spr_Highlight/spr_Highlight.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -24,11 +21,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Terrain",
-    "path": "folders/Objects/Terrain.yy",
+    "name": "Room Blueprints",
+    "path": "folders/Rooms/Room Blueprints.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_Highlight",
+  "name": "rm_CaveEnterance",
   "tags": [],
   "resourceType": "GMObject",
 }

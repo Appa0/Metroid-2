@@ -46,8 +46,8 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "name": "Start|End Screens",
+    "path": "folders/Rooms/Start|End Screens.yy",
   },
   "resourceVersion": "1.0",
   "name": "GameOver",
