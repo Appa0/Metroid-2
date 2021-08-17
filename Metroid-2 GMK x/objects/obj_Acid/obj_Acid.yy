@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_Acid",
-    "path": "sprites/spr_Acid/spr_Acid.yy",
+    "name": "sprAcid",
+    "path": "sprites/sprAcid/sprAcid.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,7 +20,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
