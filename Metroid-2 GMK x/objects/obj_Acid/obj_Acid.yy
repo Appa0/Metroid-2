@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_Acid",
+    "path": "sprites/spr_Acid/spr_Acid.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -21,11 +24,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Room Blueprints",
-    "path": "folders/Rooms/Room Blueprints.yy",
+    "name": "Terrain",
+    "path": "folders/Objects/Terrain.yy",
   },
   "resourceVersion": "1.0",
-  "name": "rm_CaveEnterance",
+  "name": "obj_Acid",
   "tags": [],
   "resourceType": "GMObject",
 }
