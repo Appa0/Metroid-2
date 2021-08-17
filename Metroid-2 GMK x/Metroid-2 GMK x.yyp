@@ -79,6 +79,7 @@
     {"id":{"name":"obj_HGUIXX","path":"objects/obj_HGUIXX/obj_HGUIXX.yy",},"order":10,},
     {"id":{"name":"spr_YumboReflectedR","path":"sprites/spr_YumboReflectedR/spr_YumboReflectedR.yy",},"order":5,},
     {"id":{"name":"spr_YumboL","path":"sprites/spr_YumboL/spr_YumboL.yy",},"order":2,},
+    {"id":{"name":"rm_Spawn","path":"rooms/rm_Spawn/rm_Spawn.yy",},"order":5,},
     {"id":{"name":"obj_MissleDown","path":"objects/obj_MissleDown/obj_MissleDown.yy",},"order":7,},
     {"id":{"name":"spr_HornoadDownR","path":"sprites/spr_HornoadDownR/spr_HornoadDownR.yy",},"order":1,},
     {"id":{"name":"sndMissleSplode","path":"sounds/sndMissleSplode/sndMissleSplode.yy",},"order":7,},
@@ -133,6 +134,7 @@
     {"roomId":{"name":"Test2","path":"rooms/Test2/Test2.yy",},},
     {"roomId":{"name":"GameOver","path":"rooms/GameOver/GameOver.yy",},},
     {"roomId":{"name":"Test","path":"rooms/Test/Test.yy",},},
+    {"roomId":{"name":"rm_Spawn","path":"rooms/rm_Spawn/rm_Spawn.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
