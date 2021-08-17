@@ -13,6 +13,6 @@ varIframe = 0
 
 hspeed = -5
 
-
 //Spinning Sprite
 alarm_set(11,10)
+

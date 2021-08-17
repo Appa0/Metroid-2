@@ -29,3 +29,11 @@ if varmorph = 0
 				sprite_index = SamusAirMissleR;
 			}
 	}
+	if varmorph = 2 and varBallJump = 1
+	{
+		
+		if place_empty(x, y+1,FloorTest) = false
+			{
+				vspeed = -10
+			}
+	}
