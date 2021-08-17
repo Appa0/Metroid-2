@@ -18,7 +18,6 @@
     {"id":{"name":"SamusCrouchMissleR","path":"sprites/SamusCrouchMissleR/SamusCrouchMissleR.yy",},"order":32,},
     {"id":{"name":"objMissle","path":"objects/objMissle/objMissle.yy",},"order":5,},
     {"id":{"name":"obj_Hornoad","path":"objects/obj_Hornoad/obj_Hornoad.yy",},"order":0,},
-    {"id":{"name":"Sprite78","path":"sprites/Sprite78/Sprite78.yy",},"order":15,},
     {"id":{"name":"WallTest","path":"objects/WallTest/WallTest.yy",},"order":2,},
     {"id":{"name":"SamusBulletD","path":"sprites/SamusBulletD/SamusBulletD.yy",},"order":26,},
     {"id":{"name":"SamusSpinR","path":"sprites/SamusSpinR/SamusSpinR.yy",},"order":4,},
