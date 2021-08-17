@@ -1,4 +1,3 @@
-
 if varIframes = 0
 	{
 		global.Samushealth -= 15

@@ -1,11 +1,14 @@
-
 if varmorph = 0
 	{
 		jumped = 1
 		
-		if place_empty(x, y+1,FloorTest) = false
+		if place_empty(x, y+1,FloorTest) = false and varHighJump = 0
 			{
-				vspeed = -12
+				vspeed = -10
+			}
+		if place_empty(x, y+1,FloorTest) = false and varHighJump = 1
+			{
+				vspeed = -16
 			}
 		if varDir = 1 
 			{
@@ -24,5 +27,13 @@ if varmorph = 0
 				}
 				else 
 				sprite_index = SamusAirMissleR;
+			}
+	}
+	if varmorph = 2 and varBallJump = 1
+	{
+		
+		if place_empty(x, y+1,FloorTest) = false
+			{
+				vspeed = -10
 			}
 	}

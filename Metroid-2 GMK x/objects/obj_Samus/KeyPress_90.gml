@@ -55,7 +55,7 @@ if varDir = 1
 			}
 	}
 }
-	if varMissles = 1 and global.varMissles >= 0
+	if varMissles = 1 and global.varMissles >= 1
 {
 	global.varMissles -=1
 	if varDir = 2

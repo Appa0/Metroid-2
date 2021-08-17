@@ -1,0 +1,1 @@
+varBallJump = 1;
