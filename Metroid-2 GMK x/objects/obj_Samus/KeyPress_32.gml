@@ -1,11 +1,14 @@
-
 if varmorph = 0
 	{
 		jumped = 1
 		
-		if place_empty(x, y+1,FloorTest) = false
+		if place_empty(x, y+1,FloorTest) = false and varHighJump = 0
 			{
-				vspeed = -12
+				vspeed = -10
+			}
+		if place_empty(x, y+1,FloorTest) = false and varHighJump = 1
+			{
+				vspeed = -16
 			}
 		if varDir = 1 
 			{

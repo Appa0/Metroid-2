@@ -1,0 +1,1 @@
+varHighJump = 1;
