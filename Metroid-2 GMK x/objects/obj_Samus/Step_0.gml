@@ -7,14 +7,14 @@
 //	global.Samushealth = 99
 //}
 global.varDirSamus = varDir;
-global.varmorph = varmorph
+global.varmorph = varmorph;
 if global.varMissles <= 0
 {
-	global.varMissles = 0
+	global.varMissles = 0;
 }
 if global.varMissles >= global.varMissleCap
 {
-	global.varMissles = global.varMissleCap
+	global.varMissles = global.varMissleCap;
 }
 if varDir = 1 and !place_empty(x, y+1,FloorTest) and !keyboard_check(vk_left) and !keyboard_check(vk_up)
 	{
@@ -111,13 +111,17 @@ if varmorph = 2
 //visual indication of invincibility framez
 if varIframes = 1
 	{
-		image_alpha = 0.2
+		image_alpha = 0.2;
 	}
-else image_alpha = 100
+else image_alpha = 100;
 
 if global.Samushealth <= 0
 	{
-		room_goto(GameOver)
-		instance_destroy()
+		room_goto(GameOver);
+		instance_destroy();
 	}
 	
+if global.Samushealth >= 99
+{
+	global.Samushealth = 99;
+}

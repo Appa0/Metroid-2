@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sprMisslePick",
-    "path": "sprites/sprMisslePick/sprMisslePick.yy",
+    "name": "sprHealthPickup",
+    "path": "sprites/sprHealthPickup/sprHealthPickup.yy",
   },
   "solid": false,
   "visible": true,
@@ -31,7 +31,7 @@
     "path": "folders/Objects/Items.yy",
   },
   "resourceVersion": "1.0",
-  "name": "objMisslePickup",
+  "name": "objHealthPickup",
   "tags": [],
   "resourceType": "GMObject",
 }
