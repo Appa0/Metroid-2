@@ -1,9 +1,9 @@
 {
   "spriteId": {
-    "name": "sprFloor",
-    "path": "sprites/sprFloor/sprFloor.yy",
+    "name": "Sprite78",
+    "path": "sprites/Sprite78/Sprite78.yy",
   },
-  "solid": true,
+  "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
@@ -24,11 +24,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Terrain",
+    "path": "folders/Objects/Terrain.yy",
   },
   "resourceVersion": "1.0",
-  "name": "FloorTest",
+  "name": "obj_Highlight",
   "tags": [],
   "resourceType": "GMObject",
 }

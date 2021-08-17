@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Tiles",
-    "path": "folders/Sprites/Tiles.yy",
+    "name": "Samus",
+    "path": "folders/Sprites/Samus.yy",
   },
   "resourceVersion": "1.0",
   "name": "zero",
