@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_Doorway",
-    "path": "sprites/spr_Doorway/spr_Doorway.yy",
+    "name": "spr_Red",
+    "path": "sprites/spr_Red/spr_Red.yy",
   },
   "solid": false,
   "visible": true,

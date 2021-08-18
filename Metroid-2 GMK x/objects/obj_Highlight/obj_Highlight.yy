@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_Highlight",
-    "path": "sprites/spr_Highlight/spr_Highlight.yy",
+    "name": "spr_Pink",
+    "path": "sprites/spr_Pink/spr_Pink.yy",
   },
   "solid": false,
   "visible": true,
