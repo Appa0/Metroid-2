@@ -30,7 +30,7 @@
     "path": "folders/Objects/Terrain/Doors.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_DoorwaySpawn2Cave",
+  "name": "obj_Doorway2Surface",
   "tags": [],
   "resourceType": "GMObject",
 }
