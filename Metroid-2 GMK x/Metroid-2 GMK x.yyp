@@ -148,11 +148,11 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Test2","path":"rooms/Test2/Test2.yy",},},
     {"roomId":{"name":"StartScreen","path":"rooms/StartScreen/StartScreen.yy",},},
     {"roomId":{"name":"rm_Spawn","path":"rooms/rm_Spawn/rm_Spawn.yy",},},
     {"roomId":{"name":"rm_CaveEnterance","path":"rooms/rm_CaveEnterance/rm_CaveEnterance.yy",},},
     {"roomId":{"name":"Test","path":"rooms/Test/Test.yy",},},
+    {"roomId":{"name":"Test2","path":"rooms/Test2/Test2.yy",},},
     {"roomId":{"name":"GameOver","path":"rooms/GameOver/GameOver.yy",},},
   ],
   "Folders": [
