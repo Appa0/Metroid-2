@@ -26,12 +26,12 @@ else varAir = 1
 
 if varAir = 1
 	{
-		if varDir = 1 and place_free(x-6, y)
+		if varDir = 1 and place_free(x-8, y)
 			{
 				hspeed = -5
 			}
 		
-		if varDir = 2 and place_free(x+6, y)
+		if varDir = 2 and place_free(x+8, y)
 			{
 				hspeed = 5
 			}
@@ -53,12 +53,12 @@ else image_alpha = 100
 //Reverse direction when next to wall
 //if varAir = 0
 	//{
-		if !place_free(x-3, y)
+		if !place_free(x-8, y)
 			{
 				varDir = 2
 			}
 
-		if !place_free(x+3, y)
+		if !place_free(x+8, y)
 			{
 		
 				varDir = 1
