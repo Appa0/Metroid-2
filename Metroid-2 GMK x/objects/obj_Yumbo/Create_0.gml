@@ -11,8 +11,8 @@ varIframe = 0
 //image_xscale = 5
 //image_yscale = 5
 
-hspeed = -5
+//hspeed = -5
 
 //Spinning Sprite
-alarm_set(11,10)
+//alarm_set(11,10)
 

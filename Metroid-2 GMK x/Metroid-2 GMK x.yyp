@@ -14,7 +14,6 @@
     {"id":{"name":"spr_Point","path":"sprites/spr_Point/spr_Point.yy",},"order":3,},
     {"id":{"name":"zero","path":"sprites/zero/zero.yy",},"order":43,},
     {"id":{"name":"SamusSpiderL","path":"sprites/SamusSpiderL/SamusSpiderL.yy",},"order":10,},
-    {"id":{"name":"spr_YumboReflectedL","path":"sprites/spr_YumboReflectedL/spr_YumboReflectedL.yy",},"order":4,},
     {"id":{"name":"sprEight","path":"sprites/sprEight/sprEight.yy",},"order":8,},
     {"id":{"name":"SamusUpMissleL","path":"sprites/SamusUpMissleL/SamusUpMissleL.yy",},"order":39,},
     {"id":{"name":"SamusCrouchMissleR","path":"sprites/SamusCrouchMissleR/SamusCrouchMissleR.yy",},"order":32,},
@@ -86,7 +85,6 @@
     {"id":{"name":"objDeath","path":"objects/objDeath/objDeath.yy",},"order":16,},
     {"id":{"name":"SamusBulletR","path":"sprites/SamusBulletR/SamusBulletR.yy",},"order":25,},
     {"id":{"name":"obj_HGUIXX","path":"objects/obj_HGUIXX/obj_HGUIXX.yy",},"order":10,},
-    {"id":{"name":"spr_YumboReflectedR","path":"sprites/spr_YumboReflectedR/spr_YumboReflectedR.yy",},"order":5,},
     {"id":{"name":"obj_Doorway2Surface","path":"objects/obj_Doorway2Surface/obj_Doorway2Surface.yy",},"order":1,},
     {"id":{"name":"rm_CaveEnterance","path":"rooms/rm_CaveEnterance/rm_CaveEnterance.yy",},"order":3,},
     {"id":{"name":"sprMisslePick","path":"sprites/sprMisslePick/sprMisslePick.yy",},"order":3,},
@@ -150,11 +148,11 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"Test2","path":"rooms/Test2/Test2.yy",},},
     {"roomId":{"name":"StartScreen","path":"rooms/StartScreen/StartScreen.yy",},},
     {"roomId":{"name":"rm_Spawn","path":"rooms/rm_Spawn/rm_Spawn.yy",},},
     {"roomId":{"name":"rm_CaveEnterance","path":"rooms/rm_CaveEnterance/rm_CaveEnterance.yy",},},
     {"roomId":{"name":"Test","path":"rooms/Test/Test.yy",},},
-    {"roomId":{"name":"Test2","path":"rooms/Test2/Test2.yy",},},
     {"roomId":{"name":"GameOver","path":"rooms/GameOver/GameOver.yy",},},
   ],
   "Folders": [
