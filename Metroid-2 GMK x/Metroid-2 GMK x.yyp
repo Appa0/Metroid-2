@@ -112,6 +112,7 @@
     {"id":{"name":"obj_AlphaMetroid","path":"objects/obj_AlphaMetroid/obj_AlphaMetroid.yy",},"order":0,},
     {"id":{"name":"sprStartScreen","path":"sprites/sprStartScreen/sprStartScreen.yy",},"order":4,},
     {"id":{"name":"obj_MGUIXX","path":"objects/obj_MGUIXX/obj_MGUIXX.yy",},"order":12,},
+    {"id":{"name":"rm_ChozoMainHall","path":"rooms/rm_ChozoMainHall/rm_ChozoMainHall.yy",},"order":4,},
     {"id":{"name":"SamusAirUpMissleR","path":"sprites/SamusAirUpMissleR/SamusAirUpMissleR.yy",},"order":30,},
     {"id":{"name":"obj_Samus","path":"objects/obj_Samus/obj_Samus.yy",},"order":6,},
     {"id":{"name":"obj_MorphBallTest","path":"objects/obj_MorphBallTest/obj_MorphBallTest.yy",},"order":7,},
@@ -157,6 +158,7 @@
     {"roomId":{"name":"Test","path":"rooms/Test/Test.yy",},},
     {"roomId":{"name":"Test2","path":"rooms/Test2/Test2.yy",},},
     {"roomId":{"name":"GameOver","path":"rooms/GameOver/GameOver.yy",},},
+    {"roomId":{"name":"rm_ChozoMainHall","path":"rooms/rm_ChozoMainHall/rm_ChozoMainHall.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
