@@ -16,6 +16,7 @@
     {"id":{"name":"SamusSpiderL","path":"sprites/SamusSpiderL/SamusSpiderL.yy",},"order":10,},
     {"id":{"name":"sprEight","path":"sprites/sprEight/sprEight.yy",},"order":8,},
     {"id":{"name":"SamusUpMissleL","path":"sprites/SamusUpMissleL/SamusUpMissleL.yy",},"order":39,},
+    {"id":{"name":"FntGUI","path":"fonts/FntGUI/FntGUI.yy",},"order":0,},
     {"id":{"name":"SamusCrouchMissleR","path":"sprites/SamusCrouchMissleR/SamusCrouchMissleR.yy",},"order":32,},
     {"id":{"name":"objMissle","path":"objects/objMissle/objMissle.yy",},"order":5,},
     {"id":{"name":"obj_Hornoad","path":"objects/obj_Hornoad/obj_Hornoad.yy",},"order":0,},
