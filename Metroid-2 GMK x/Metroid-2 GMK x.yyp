@@ -125,6 +125,7 @@
     {"id":{"name":"sndBrruuahh","path":"sounds/sndBrruuahh/sndBrruuahh.yy",},"order":9,},
     {"id":{"name":"SamusStandR","path":"sprites/SamusStandR/SamusStandR.yy",},"order":0,},
     {"id":{"name":"spr_AlphaMetroidM","path":"sprites/spr_AlphaMetroidM/spr_AlphaMetroidM.yy",},"order":1,},
+    {"id":{"name":"rm_ChozoMetroidAmbush","path":"rooms/rm_ChozoMetroidAmbush/rm_ChozoMetroidAmbush.yy",},"order":8,},
     {"id":{"name":"objStopWatch","path":"objects/objStopWatch/objStopWatch.yy",},"order":16,},
     {"id":{"name":"obj_Highlight","path":"objects/obj_Highlight/obj_Highlight.yy",},"order":2,},
     {"id":{"name":"sprThree","path":"sprites/sprThree/sprThree.yy",},"order":3,},
@@ -133,7 +134,6 @@
     {"id":{"name":"SamusAirDownL","path":"sprites/SamusAirDownL/SamusAirDownL.yy",},"order":16,},
     {"id":{"name":"sprZero","path":"sprites/sprZero/sprZero.yy",},"order":0,},
     {"id":{"name":"SamusBallL","path":"sprites/SamusBallL/SamusBallL.yy",},"order":8,},
-    {"id":{"name":"stopwatch","path":"fonts/stopwatch/stopwatch.yy",},"order":0,},
     {"id":{"name":"sndLevel2","path":"sounds/sndLevel2/sndLevel2.yy",},"order":2,},
     {"id":{"name":"SamusAirL","path":"sprites/SamusAirL/SamusAirL.yy",},"order":18,},
     {"id":{"name":"SamusGunRunR","path":"sprites/SamusGunRunR/SamusGunRunR.yy",},"order":11,},
@@ -167,6 +167,7 @@
     {"roomId":{"name":"rm_FirstMetroidandHighJump","path":"rooms/rm_FirstMetroidandHighJump/rm_FirstMetroidandHighJump.yy",},},
     {"roomId":{"name":"rm_MetroidandBallJump","path":"rooms/rm_MetroidandBallJump/rm_MetroidandBallJump.yy",},},
     {"roomId":{"name":"rm_CaveExit","path":"rooms/rm_CaveExit/rm_CaveExit.yy",},},
+    {"roomId":{"name":"rm_ChozoMetroidAmbush","path":"rooms/rm_ChozoMetroidAmbush/rm_ChozoMetroidAmbush.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
