@@ -130,6 +130,7 @@
     {"id":{"name":"SamusAirDownL","path":"sprites/SamusAirDownL/SamusAirDownL.yy",},"order":16,},
     {"id":{"name":"sprZero","path":"sprites/sprZero/sprZero.yy",},"order":0,},
     {"id":{"name":"SamusBallL","path":"sprites/SamusBallL/SamusBallL.yy",},"order":8,},
+    {"id":{"name":"stopwatch","path":"fonts/stopwatch/stopwatch.yy",},"order":0,},
     {"id":{"name":"sndLevel2","path":"sounds/sndLevel2/sndLevel2.yy",},"order":2,},
     {"id":{"name":"SamusAirL","path":"sprites/SamusAirL/SamusAirL.yy",},"order":18,},
     {"id":{"name":"SamusGunRunR","path":"sprites/SamusGunRunR/SamusGunRunR.yy",},"order":11,},
