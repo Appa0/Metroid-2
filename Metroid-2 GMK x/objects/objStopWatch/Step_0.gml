@@ -72,5 +72,5 @@ if global.varWin = 5 {
 	global.finalsteps = global.steps
 	global.finalminutes = global.minutes
 	room_goto(YouWin)
-	global.win = 0
+	global.win = 0;
 }
