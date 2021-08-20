@@ -8,19 +8,19 @@ draw_set_color(c_white)
 draw_set_font(FntGUI)
 draw_set_halign(fa_center);
 
-if steps < 10 { 
-	if seconds < 10 {
-		draw_text(vx + 800 ,vy,string("0") + string(minutes) + string(":") + string("0")+string(seconds) + string(":") +  string("0")+string(steps))
+if global.steps < 10 { 
+	if global.seconds < 10 {
+		draw_text(vx + 800 ,vy,string("0") + string(global.minutes) + string(":") + string("0")+string(global.seconds) + string(":") +  string("0")+string(global.steps))
 	}
-	if seconds >= 10 {
-		draw_text(vx + 800 ,vy,string("0") + string(minutes) + string(":") + string(seconds) + string(":") +  string("0")+string(steps))
+	if global.seconds >= 10 {
+		draw_text(vx + 800 ,vy,string("0") + string(global.minutes) + string(":") + string(global.seconds) + string(":") +  string("0")+string(global.steps))
 	}
 }
-if steps >= 10 {
-	if seconds < 10 {
-		draw_text(vx + 800 ,vy,string("0") + string(minutes) + string(":") + string("0")+string(seconds) + string(":") + string(steps))
+if global.steps >= 10 {
+	if global.seconds < 10 {
+		draw_text(vx + 800 ,vy,string("0") + string(global.minutes) + string(":") + string("0")+string(global.seconds) + string(":") + string(global.steps))
 	}
-	if seconds >= 10 {
-		draw_text(vx + 800 ,vy,string("0") + string(minutes) + string(":") + string(seconds) + string(":") + string(steps))
+	if global.seconds >= 10 {
+		draw_text(vx + 800 ,vy,string("0") + string(global.minutes) + string(":") + string(global.seconds) + string(":") + string(global.steps))
 	}
 }

@@ -15,23 +15,17 @@ global.minutes += 1;
 if global.varRoom = 1
 {
 room_goto(rm_CaveEnterance);
-obj_Samus.x = 32281;
-obj_Samus.y = 5246;
-global.varRoom = 0;
+alarm_set(0,1)
 }
 if global.varRoom = 2
 {
 room_goto(rm_ChozoMainHall);
-obj_Samus.x = 228;
-obj_Samus.y = 3421;
-global.varRoom = 0;
+alarm_set(0,1)
 }
 if global.varRoom = 3
 {
 room_goto(rm_CaveEnterance);
-obj_Samus.x = 46390;
-obj_Samus.y = 7150;
-global.varRoom = 0;
+alarm_set(0,1)
 }
 
 if global.win = 1 {
