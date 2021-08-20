@@ -6,6 +6,7 @@
     {"id":{"name":"sprAcid","path":"sprites/sprAcid/sprAcid.yy",},"order":2,},
     {"id":{"name":"sprFade","path":"sprites/sprFade/sprFade.yy",},"order":5,},
     {"id":{"name":"obj_CirclePerimeter","path":"objects/obj_CirclePerimeter/obj_CirclePerimeter.yy",},"order":14,},
+    {"id":{"name":"objShip","path":"objects/objShip/objShip.yy",},"order":11,},
     {"id":{"name":"SamusAirMissleL","path":"sprites/SamusAirMissleL/SamusAirMissleL.yy",},"order":27,},
     {"id":{"name":"obj_HGUIX","path":"objects/obj_HGUIX/obj_HGUIX.yy",},"order":6,},
     {"id":{"name":"obj_Cave2Chozo","path":"objects/obj_Cave2Chozo/obj_Cave2Chozo.yy",},"order":0,},
@@ -168,8 +169,8 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"StartScreen","path":"rooms/StartScreen/StartScreen.yy",},},
-    {"roomId":{"name":"rm_ChozoMainHall","path":"rooms/rm_ChozoMainHall/rm_ChozoMainHall.yy",},},
     {"roomId":{"name":"rm_Spawn","path":"rooms/rm_Spawn/rm_Spawn.yy",},},
+    {"roomId":{"name":"rm_ChozoMainHall","path":"rooms/rm_ChozoMainHall/rm_ChozoMainHall.yy",},},
     {"roomId":{"name":"rm_CaveEnterance","path":"rooms/rm_CaveEnterance/rm_CaveEnterance.yy",},},
     {"roomId":{"name":"Test","path":"rooms/Test/Test.yy",},},
     {"roomId":{"name":"Test2","path":"rooms/Test2/Test2.yy",},},

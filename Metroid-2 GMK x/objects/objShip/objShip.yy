@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sprHighJump",
-    "path": "sprites/sprHighJump/sprHighJump.yy",
+    "name": "sprShip",
+    "path": "sprites/sprShip/sprShip.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,11 +20,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_Samus","path":"objects/obj_Samus/obj_Samus.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -32,7 +28,7 @@
     "path": "folders/Objects/Items.yy",
   },
   "resourceVersion": "1.0",
-  "name": "objHighBoots",
+  "name": "objShip",
   "tags": [],
   "resourceType": "GMObject",
 }
