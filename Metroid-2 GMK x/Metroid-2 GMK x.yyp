@@ -33,6 +33,7 @@
     {"id":{"name":"obj_BulletL","path":"objects/obj_BulletL/obj_BulletL.yy",},"order":1,},
     {"id":{"name":"StartScreen","path":"rooms/StartScreen/StartScreen.yy",},"order":1,},
     {"id":{"name":"sprNine","path":"sprites/sprNine/sprNine.yy",},"order":10,},
+    {"id":{"name":"sprShip","path":"sprites/sprShip/sprShip.yy",},"order":8,},
     {"id":{"name":"sprFive","path":"sprites/sprFive/sprFive.yy",},"order":5,},
     {"id":{"name":"obj_BulletUp","path":"objects/obj_BulletUp/obj_BulletUp.yy",},"order":3,},
     {"id":{"name":"sprHighJump","path":"sprites/sprHighJump/sprHighJump.yy",},"order":1,},
