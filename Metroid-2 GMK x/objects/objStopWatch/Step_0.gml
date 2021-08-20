@@ -56,7 +56,7 @@ alarm_set(0,1)
 }
 
 
-if global.win = 1 {
+if global.varWin = 5 {
 	global.finalseconds = global.seconds
 	global.finalsteps = global.steps
 	global.finalminutes = global.minutes

@@ -2,7 +2,8 @@
 //Heath
 if varAhealth <= 0
 	{
-		instance_destroy()
+		global.varWin += 1;
+		instance_destroy();
 	}
 
 //Damage Dimming
