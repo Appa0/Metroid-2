@@ -403,7 +403,7 @@
   "roomSettings": {
     "inheritRoomSettings": false,
     "Width": 3700,
-    "Height": 1270,
+    "Height": 1350,
     "persistent": false,
   },
   "viewSettings": {

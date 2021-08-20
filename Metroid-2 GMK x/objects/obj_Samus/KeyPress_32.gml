@@ -1,12 +1,12 @@
 if varmorph = 0
 	{
 		jumped = 1
-		if place_empty(x, y+1,FloorTest) = false and varHighJump = 0
+		if place_empty(x, y+1,FloorTest) = false and global.varHighJump = 0
 			{
 				vspeed = -10
 				audio_play_sound(sndJump,10,0)
 			}
-		if place_empty(x, y+1,FloorTest) = false and varHighJump = 1
+		if place_empty(x, y+1,FloorTest) = false and global.varHighJump = 1
 			{
 				vspeed = -16
 				audio_play_sound(sndJump,10,0)
@@ -30,7 +30,7 @@ if varmorph = 0
 				sprite_index = SamusAirMissleR;
 			}
 	}
-	if varmorph = 2 and varBallJump = 1
+	if varmorph = 2 and global.varBallJump = 1
 	{
 		
 		if place_empty(x, y+1,FloorTest) = false

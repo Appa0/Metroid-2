@@ -1,2 +1,2 @@
-varHighJump = 1;
+global.varHighJump = 1;
 global.items +=1;

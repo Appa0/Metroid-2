@@ -1,2 +1,2 @@
-varBallJump = 1;
+global.varBallJump = 1;
 global.items +=1;
