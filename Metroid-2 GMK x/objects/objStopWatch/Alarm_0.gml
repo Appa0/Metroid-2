@@ -35,13 +35,13 @@ obj_Samus.y = 416;
 //Cave1ToFirstMetroid
 if global.varRoom = 7
 {
-obj_Samus.x = 
-obj_Samus.y =
+obj_Samus.x = 6752;
+obj_Samus.y = 1536;
 }
 //FirstMetroidToCave1
 if global.varRoom = 8
 {
-obj_Samus.x = 
-obj_Samus.y =
+obj_Samus.x = 14704;
+obj_Samus.y = 9847;
 }
 global.varRoom = 0;

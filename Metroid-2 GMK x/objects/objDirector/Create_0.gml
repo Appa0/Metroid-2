@@ -8,6 +8,7 @@ global.varHighJump = 0;
 global.varBallJump = 0;
 
 global.varRoom = 0;
+global.varWin = 0;
 
 global.minutes = 0;
 global.seconds = 0;
