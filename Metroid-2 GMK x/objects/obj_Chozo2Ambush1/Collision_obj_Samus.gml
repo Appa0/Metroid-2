@@ -1,0 +1,1 @@
+global.varRoom = 4;
