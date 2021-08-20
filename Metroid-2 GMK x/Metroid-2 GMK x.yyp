@@ -12,6 +12,7 @@
     {"id":{"name":"obj_GUI","path":"objects/obj_GUI/obj_GUI.yy",},"order":5,},
     {"id":{"name":"SamusStandMissleL","path":"sprites/SamusStandMissleL/SamusStandMissleL.yy",},"order":37,},
     {"id":{"name":"spr_Point","path":"sprites/spr_Point/spr_Point.yy",},"order":3,},
+    {"id":{"name":"sprYouWin","path":"sprites/sprYouWin/sprYouWin.yy",},"order":10,},
     {"id":{"name":"zero","path":"sprites/zero/zero.yy",},"order":43,},
     {"id":{"name":"SamusSpiderL","path":"sprites/SamusSpiderL/SamusSpiderL.yy",},"order":10,},
     {"id":{"name":"sprEight","path":"sprites/sprEight/sprEight.yy",},"order":8,},
