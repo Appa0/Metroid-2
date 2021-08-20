@@ -1,14 +1,21 @@
 global.steps += 1;
-if global.steps >= room_speed
-{
-global.steps = 0;
-global.seconds += 1;
-
-if global.seconds >= 60
-{
-global.seconds = 0;
-global.minutes += 1;
+if global.steps >= room_speed {
+	global.steps = 0;
+	global.seconds += 1;
 }
+if global.seconds >= 60 {
+	global.seconds = 0;
+	global.minutes += 1;
+}
+
+
+//final screen timer
+if global.win = 1 {
+	finalseconds = global.seconds
+	finalminutes = global.finalminutes
+	finalsteps = global.finalsteps
+	room_goto(YouWin)
+	global.win = 0
 }
 
 //EntranceToCave1
