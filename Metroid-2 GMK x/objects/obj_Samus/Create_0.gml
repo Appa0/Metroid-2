@@ -11,3 +11,5 @@ varHighJump = 0;
 varBallJump = 0;
 
 depth = 10
+
+global.win = 0

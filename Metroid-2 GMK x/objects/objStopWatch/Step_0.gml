@@ -10,3 +10,12 @@ seconds = 0;
 minutes += 1;
 }
 }
+
+
+if global.win = 1 {
+	finalseconds = seconds
+	finalsteps = steps
+	finalminutes = minutes
+	room_goto(YouWin)
+	global.win = 0
+}

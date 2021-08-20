@@ -14,3 +14,5 @@ if seconds >= 10 {
 	draw_text(vx + 900 ,vy,string("0") + string(minutes) + string(":") + string(seconds) + string(":") + string(steps))
 }
 	
+	
+	
