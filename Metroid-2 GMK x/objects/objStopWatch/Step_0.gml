@@ -54,7 +54,18 @@ if global.varRoom = 6
 room_goto(rm_ChozoMetroidAmbush);
 alarm_set(0,1)
 }
-
+//Cave1ToFirstMetroid
+if global.varRoom = 7
+{
+room_goto(rm_FirstMetroidandHighJump);
+alarm_set(0,1)
+}
+//FirstMetroidToCave1
+if global.varRoom = 8
+{
+room_goto(rm_CaveEnterance);
+alarm_set(0,1)
+}
 
 if global.varWin = 5 {
 	global.finalseconds = global.seconds

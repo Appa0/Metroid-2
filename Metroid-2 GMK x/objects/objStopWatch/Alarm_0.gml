@@ -32,4 +32,16 @@ if global.varRoom = 6
 obj_Samus.x = 160;
 obj_Samus.y = 416;
 }
+//Cave1ToFirstMetroid
+if global.varRoom = 7
+{
+obj_Samus.x = 
+obj_Samus.y =
+}
+//FirstMetroidToCave1
+if global.varRoom = 8
+{
+obj_Samus.x = 
+obj_Samus.y =
+}
 global.varRoom = 0;
