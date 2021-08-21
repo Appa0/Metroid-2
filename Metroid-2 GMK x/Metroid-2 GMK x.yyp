@@ -110,6 +110,7 @@
     {"id":{"name":"sndMissleSplode","path":"sounds/sndMissleSplode/sndMissleSplode.yy",},"order":7,},
     {"id":{"name":"SamusAirUpL","path":"sprites/SamusAirUpL/SamusAirUpL.yy",},"order":14,},
     {"id":{"name":"objMisslePickup","path":"objects/objMisslePickup/objMisslePickup.yy",},"order":9,},
+    {"id":{"name":"Extra","path":"rooms/Extra/Extra.yy",},"order":9,},
     {"id":{"name":"obj_MissleL","path":"objects/obj_MissleL/obj_MissleL.yy",},"order":6,},
     {"id":{"name":"SamusBulletU","path":"sprites/SamusBulletU/SamusBulletU.yy",},"order":24,},
     {"id":{"name":"obj_ChozoTexture","path":"objects/obj_ChozoTexture/obj_ChozoTexture.yy",},"order":7,},
@@ -182,6 +183,7 @@
     {"roomId":{"name":"rm_CaveExit","path":"rooms/rm_CaveExit/rm_CaveExit.yy",},},
     {"roomId":{"name":"rm_ChozoMetroidAmbush","path":"rooms/rm_ChozoMetroidAmbush/rm_ChozoMetroidAmbush.yy",},},
     {"roomId":{"name":"YouWin","path":"rooms/YouWin/YouWin.yy",},},
+    {"roomId":{"name":"Extra","path":"rooms/Extra/Extra.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
