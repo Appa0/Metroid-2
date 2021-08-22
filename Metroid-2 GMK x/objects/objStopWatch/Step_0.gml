@@ -68,9 +68,5 @@ alarm_set(0,1)
 }
 
 if global.varWin = 5 {
-	global.finalseconds = global.seconds
-	global.finalsteps = global.steps
-	global.finalminutes = global.minutes
-	room_goto(YouWin)
-	global.win = 0;
+	global.win = 1
 }
