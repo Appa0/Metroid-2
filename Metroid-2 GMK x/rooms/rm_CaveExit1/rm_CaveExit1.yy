@@ -2362,8 +2362,8 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Room Blueprints",
-    "path": "folders/Rooms/Room Blueprints.yy",
+    "name": "Old CaveExit",
+    "path": "folders/Rooms/Room Blueprints/Old CaveExit.yy",
   },
   "resourceVersion": "1.0",
   "name": "rm_CaveExit1",
