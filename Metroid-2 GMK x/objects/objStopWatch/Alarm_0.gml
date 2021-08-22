@@ -44,4 +44,5 @@ if global.varRoom = 8
 obj_Samus.x = 14704;
 obj_Samus.y = 9847;
 }
+
 global.varRoom = 0;

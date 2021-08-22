@@ -66,7 +66,18 @@ if global.varRoom = 8
 room_goto(rm_CaveEnterance);
 alarm_set(0,1)
 }
-
+//ChozoMainToCaveExit
+if global.varRoom = 10
+{
+room_goto(rm_CaveExitRedesign);
+alarm_set(0,1)
+}
+//CaveExitToChozoMain
+if global.varRoom = 10
+{
+room_goto(rm_ChozoMainHall);
+alarm_set(0,1)
+}
 if global.varWin = 5 {
 	global.win = 1
 }
