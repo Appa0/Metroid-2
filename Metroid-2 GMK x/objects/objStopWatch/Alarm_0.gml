@@ -44,5 +44,58 @@ if global.varRoom = 8
 obj_Samus.x = 14704;
 obj_Samus.y = 9847;
 }
-
+//ChozoMainToCaveExit
+if global.varRoom = 12
+{
+obj_Samus.x = 9689;
+obj_Samus.y = 8514;
+}
+//CaveExitToChozoMain
+if global.varRoom = 11
+{
+obj_Samus.x = 68;
+obj_Samus.y = 550;
+}
+//ChozoToNest1
+if global.varRoom = 12
+{
+obj_Samus.x = 107;
+obj_Samus.y = 8191;
+}
+//ChozoToNest2
+if global.varRoom = 13
+{
+obj_Samus.x = 83;
+obj_Samus.y = 7570;
+}
+//ChozoToNest3
+if global.varRoom = 14
+{
+obj_Samus.x = 52;
+obj_Samus.y = 4319;
+}
+//NestToChozo1
+if global.varRoom = 15
+{
+obj_Samus.x = 5009;
+obj_Samus.y = 3395;
+}
+//NestToChozo2
+if global.varRoom = 16
+{
+obj_Samus.x = 5009;
+obj_Samus.y = 2727;
+}
+//NestToChozo3
+if global.varRoom = 17
+{
+obj_Samus.x = 5009;
+obj_Samus.y = 363;
+}
+//CaveExitToSurface
+if global.varRoom = 20
+{
+obj_Samus.x = 29136;
+obj_Samus.y = 2003;
+}
 global.varRoom = 0;

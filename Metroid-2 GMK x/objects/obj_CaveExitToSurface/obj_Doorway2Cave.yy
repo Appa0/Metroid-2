@@ -1,10 +1,10 @@
 {
   "spriteId": {
-    "name": "spr_Red",
-    "path": "sprites/spr_Red/spr_Red.yy",
+    "name": "spr_Doorway",
+    "path": "sprites/spr_Doorway/spr_Doorway.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -30,7 +30,7 @@
     "path": "folders/Objects/Terrain/Doors.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_ChozoToCaveExit",
+  "name": "obj_Doorway2Cave",
   "tags": [],
   "resourceType": "GMObject",
 }

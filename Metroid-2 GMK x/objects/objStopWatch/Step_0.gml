@@ -67,15 +67,56 @@ room_goto(rm_CaveEnterance);
 alarm_set(0,1)
 }
 //ChozoMainToCaveExit
-if global.varRoom = 10
+if global.varRoom = 12
 {
 room_goto(rm_CaveExitRedesign);
 alarm_set(0,1)
 }
 //CaveExitToChozoMain
-if global.varRoom = 10
+if global.varRoom = 11
 {
 room_goto(rm_ChozoMainHall);
+alarm_set(0,1)
+}
+//ChozoToNest1
+if global.varRoom = 12
+{
+room_goto(rm_MetroidandBallJump);
+alarm_set(0,1)
+}
+//ChozoToNest2
+if global.varRoom = 13
+{
+room_goto(rm_MetroidandBallJump);
+alarm_set(0,1)
+}
+//ChozoToNest3
+if global.varRoom = 14
+{
+room_goto(rm_MetroidandBallJump);
+alarm_set(0,1)
+}
+//NestToChozo1
+if global.varRoom = 15
+{
+room_goto(rm_ChozoMainHall);
+alarm_set(0,1)
+}
+//NestToChozo2
+if global.varRoom = 16
+{
+room_goto(rm_ChozoMainHall);
+alarm_set(0,1)
+}
+//NestToChozo3
+if global.varRoom = 17
+{
+room_goto(rm_ChozoMainHall);
+alarm_set(0,1)
+}
+if global.varRoom = 20
+{
+room_goto(rm_Spawn);
 alarm_set(0,1)
 }
 if global.varWin = 5 {
