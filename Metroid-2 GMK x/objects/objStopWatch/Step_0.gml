@@ -11,9 +11,9 @@ if global.seconds >= 60 {
 
 //final screen timer
 if global.win = 1 {
+	finalminutes = global.minutes
 	finalseconds = global.seconds
-	finalminutes = global.finalminutes
-	finalsteps = global.finalsteps
+	finalsteps = global.steps
 	room_goto(YouWin)
 	global.win = 0
 }
