@@ -1,7 +1,7 @@
 varDir = 2;
 varIframes = 0;
 varmorph = 0;
-jumped = 0;
+jumped = 1;
 varMissles = 0;
 
 image_xscale = 5;

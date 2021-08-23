@@ -19,6 +19,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_HGUIXX","path":"objects/obj_HGUIXX/obj_HGUIXX.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":6.25,"scaleY":6.25,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":361.0,"y":850.0,"resourceVersion":"1.0","name":"inst_7A019916","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_MGUIX","path":"objects/obj_MGUIX/obj_MGUIX.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":6.25,"scaleY":6.25,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":544.0,"y":850.0,"resourceVersion":"1.0","name":"inst_7E38597A","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_MGUIXX","path":"objects/obj_MGUIXX/obj_MGUIXX.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":6.25,"scaleY":6.25,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":594.0,"y":850.0,"resourceVersion":"1.0","name":"inst_462C135A","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_CirclePerimeter","path":"objects/obj_CirclePerimeter/obj_CirclePerimeter.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":5664.0,"y":1088.0,"resourceVersion":"1.0","name":"inst_59D440D7","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"UI","tags":[],"resourceType":"GMRInstanceLayer",},
     {"tilesetId":{"name":"TileSet","path":"tilesets/TileSet/TileSet.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":110,"SerialiseHeight":40,"TileSerialiseData":[
 2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
@@ -763,6 +764,7 @@
     {"name":"inst_62BFF6B9","path":"rooms/rm_FirstMetroidandHighJump/rm_FirstMetroidandHighJump.yy",},
     {"name":"inst_13F8EA3B","path":"rooms/rm_FirstMetroidandHighJump/rm_FirstMetroidandHighJump.yy",},
     {"name":"inst_691B25ED","path":"rooms/rm_FirstMetroidandHighJump/rm_FirstMetroidandHighJump.yy",},
+    {"name":"inst_59D440D7","path":"rooms/rm_FirstMetroidandHighJump/rm_FirstMetroidandHighJump.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
