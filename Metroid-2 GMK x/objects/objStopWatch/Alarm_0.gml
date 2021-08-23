@@ -1,7 +1,7 @@
 if global.varRoom = 1
 {
-obj_Samus.x = 32281;
-obj_Samus.y = 5246;
+obj_Samus.x = 17792;
+obj_Samus.y = 2496;
 }
 
 if global.varRoom = 2
@@ -11,8 +11,8 @@ obj_Samus.y = 3421;
 }
 if global.varRoom = 3
 {
-obj_Samus.x = 46390;
-obj_Samus.y = 7150;
+obj_Samus.x = 25760;
+obj_Samus.y = 3936;
 }
 //ChozoToAmbush1
 if global.varRoom = 4
