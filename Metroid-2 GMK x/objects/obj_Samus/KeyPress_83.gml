@@ -1,2 +1,2 @@
 //Temporary - Game Save
-//game_save("Save.dat");
+game_save("Save.dat");
