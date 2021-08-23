@@ -126,3 +126,9 @@ if global.Samushealth >= 99
 {
 	global.Samushealth = 99;
 }
+
+if global.varSpawnRoom = 1
+	{
+		global.varSpawnRoom = 0
+		audio_play_sound(sndLevel1,19,100)
+	}
