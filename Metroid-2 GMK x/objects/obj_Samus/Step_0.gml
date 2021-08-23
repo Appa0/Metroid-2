@@ -6,6 +6,7 @@
 //
 //	global.Samushealth = 99
 //}
+
 global.varDirSamus = varDir;
 global.varmorph = varmorph;
 if global.varMissles <= 0
