@@ -16,3 +16,10 @@ global.steps = 0;
 global.finalminutes = 0;
 global.finalseconds = 0;
 global.finalsteps = 0;
+
+global.varSaveWin = 0;
+global.varSaveHealth = 99;
+global.varSaveMissleCap = 30;
+global.varSaveBallJump = 0;
+global.varSaveMissles = 30;
+global.varSaveJump = 0;
