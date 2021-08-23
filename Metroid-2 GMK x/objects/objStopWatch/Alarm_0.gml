@@ -41,8 +41,8 @@ obj_Samus.y = 1536;
 //FirstMetroidToCave1
 if global.varRoom = 8
 {
-obj_Samus.x = 14704;
-obj_Samus.y = 9847;
+obj_Samus.x = 176;
+obj_Samus.y = 6887;
 }
 //ChozoMainToCaveExit
 if global.varRoom = 12
