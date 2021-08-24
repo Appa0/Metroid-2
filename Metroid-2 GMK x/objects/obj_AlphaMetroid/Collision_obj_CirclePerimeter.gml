@@ -12,3 +12,14 @@ if place_meeting(x - 50, y, obj_Samus) and sprite_index = spr_AlphaMetroidR
 	{
 		speed = 0
 	}
+	
+if x >= obj_Samus.x 
+	{
+		sprite_index = spr_AlphaMetroidL
+	}
+
+if x <= obj_Samus.x
+	{
+		sprite_index = spr_AlphaMetroidR
+	}
+
