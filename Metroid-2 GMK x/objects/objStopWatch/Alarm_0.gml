@@ -52,7 +52,7 @@ game_save("Save.dat")
 //AmbushToChozo
 if global.varRoom = 5
 {
-obj_Samus.x = 2400;
+obj_Samus.x = 2350;
 obj_Samus.y = 550;
 global.varSaveWin = global.varWin
 global.varSaveHealth = global.Samushealth
