@@ -1,0 +1,2 @@
+
+global.varCheckpoint = 1

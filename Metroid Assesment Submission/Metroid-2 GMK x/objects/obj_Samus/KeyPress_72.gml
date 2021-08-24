@@ -1,0 +1,1 @@
+global.win = 1

@@ -1,0 +1,1 @@
+global.Samushealth -= 1;
