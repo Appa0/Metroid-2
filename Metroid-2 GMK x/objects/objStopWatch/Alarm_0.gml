@@ -102,7 +102,7 @@ global.varSaveJump = global.varHighJump
 game_save("Save.dat")
 }
 //ChozoMainToCaveExit
-if global.varRoom = 12
+if global.varRoom = 25
 {
 obj_Samus.x = 9689;
 obj_Samus.y = 8514;

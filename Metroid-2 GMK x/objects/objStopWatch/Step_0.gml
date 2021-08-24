@@ -67,7 +67,7 @@ room_goto(rm_CaveEnterance);
 alarm_set(0,1)
 }
 //ChozoMainToCaveExit
-if global.varRoom = 12
+if global.varRoom = 25
 {
 room_goto(rm_CaveExitRedesign);
 alarm_set(0,1)
@@ -76,6 +76,12 @@ alarm_set(0,1)
 if global.varRoom = 11
 {
 room_goto(rm_ChozoMainHall);
+alarm_set(0,1)
+}
+//ballz
+if global.varRoom = 12
+{
+room_goto(rm_MetroidandBallJump);
 alarm_set(0,1)
 }
 //ChozoToNest2
