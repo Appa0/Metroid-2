@@ -1,16 +1,14 @@
-//make sure it isnt dead already
-if global.varAlpha4 = 1
+if global.varMetroid4 = 1
 {
-instance_destroy();
+	instance_destroy()
 }
 //Heath
 if varAhealth <= 0
 	{
-		global.varAlpha4 = 1;
+		global.varMetroid4 = 1
 		global.varWin += 1;
 		instance_destroy();
 	}
-
 
 //Damage Dimming
 if varIframe = 1

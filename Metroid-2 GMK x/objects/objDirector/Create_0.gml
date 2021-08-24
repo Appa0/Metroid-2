@@ -23,3 +23,8 @@ global.varSaveMissleCap = 30;
 global.varSaveBallJump = 0;
 global.varSaveMissles = 30;
 global.varSaveJump = 0;
+
+global.varMetroid1 = 0
+global.varMetroid2 = 0
+global.varMetroid3 = 0
+global.varMetroid4 = 0

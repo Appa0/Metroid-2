@@ -1,12 +1,11 @@
-//make sure it isnt dead already
-if global.varAlpha1 = 1
+if global.varMetroid1 = 1
 {
-instance_destroy();
+	instance_destroy()
 }
 //Heath
 if varAhealth <= 0
 	{
-		global.varAlpha1 = 1;
+		global.varMetroid1 = 1
 		global.varWin += 1;
 		instance_destroy();
 	}

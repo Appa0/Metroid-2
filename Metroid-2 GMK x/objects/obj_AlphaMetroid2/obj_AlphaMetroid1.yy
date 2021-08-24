@@ -39,7 +39,7 @@
     "path": "folders/Objects/Enemies/Metroids.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_AlphaMetroid",
+  "name": "obj_AlphaMetroid1",
   "tags": [],
   "resourceType": "GMObject",
 }
