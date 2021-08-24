@@ -1,4 +1,5 @@
 //Temporary - Game Save
+/*
 global.varSaveWin = global.varWin
 global.varSaveHealth = global.Samushealth
 global.varSaveMissleCap = global.varMissleCap
