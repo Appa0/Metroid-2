@@ -156,8 +156,8 @@ game_save("Save.dat")
 //ChozoToNest3
 if global.varRoom = 14
 {
-obj_Samus.x = 52;
-obj_Samus.y = 4319;
+obj_Samus.x = 155;
+obj_Samus.y = 4536;
 global.varSaveWin = global.varWin
 global.varSaveHealth = global.Samushealth
 global.varSaveMissleCap = global.varMissleCap
@@ -195,7 +195,7 @@ game_save("Save.dat")
 //NestToChozo3
 if global.varRoom = 17
 {
-obj_Samus.x = 5009;
+obj_Samus.x = 5014;
 obj_Samus.y = 363;
 global.varSaveWin = global.varWin
 global.varSaveHealth = global.Samushealth
