@@ -119,6 +119,8 @@ if global.varRoom = 20
 room_goto(rm_Spawn);
 alarm_set(0,1)
 }
-if global.varWin = 5 {
-	global.win = 1
+global.varRoom = 26
+{
+room_goto(rm_MetroidandBallJump);
+alarm_set(0,1)
 }

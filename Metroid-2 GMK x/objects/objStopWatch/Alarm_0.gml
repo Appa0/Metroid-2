@@ -205,4 +205,15 @@ global.varSaveMissles = global.varMissles
 global.varSaveJump = global.varHighJump
 game_save("Save.dat")
 }
+global.varRoom = 26
+{
+obj_Samus.x = 125;
+obj_Samus.y = 8222;
+global.varSaveWin = global.varWin
+global.varSaveHealth = global.Samushealth
+global.varSaveMissleCap = global.varMissleCap
+global.varSaveBallJump = global.varBallJump
+global.varSaveMissles = global.varMissles
+global.varSaveJump = global.varHighJump
+}
 global.varRoom = 0;
