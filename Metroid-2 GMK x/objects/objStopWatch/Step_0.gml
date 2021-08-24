@@ -78,10 +78,10 @@ if global.varRoom = 11
 room_goto(rm_ChozoMainHall);
 alarm_set(0,1)
 }
-//ChozoToNest1
+//ChozoToCaveExit
 if global.varRoom = 12
 {
-room_goto(rm_MetroidandBallJump);
+room_goto(rm_CaveExitRedesign);
 alarm_set(0,1)
 }
 //ChozoToNest2

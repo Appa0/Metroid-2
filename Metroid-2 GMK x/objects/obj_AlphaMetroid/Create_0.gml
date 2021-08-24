@@ -6,7 +6,7 @@ image_yscale = 5
 varIframe = 0
 
 //Instance Heath Variable
-varAhealth = 6
+varAhealth = 5
 
 //Freezing while moving
 varFreeze = 0
