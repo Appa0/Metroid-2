@@ -145,7 +145,7 @@
     {"id":{"name":"obj_CaveExitToSurface","path":"objects/obj_CaveExitToSurface/obj_CaveExitToSurface.yy",},"order":17,},
     {"id":{"name":"rm_ChozoMetroidAmbush","path":"rooms/rm_ChozoMetroidAmbush/rm_ChozoMetroidAmbush.yy",},"order":6,},
     {"id":{"name":"objStopWatch","path":"objects/objStopWatch/objStopWatch.yy",},"order":16,},
-    {"id":{"name":"obj_SpawnCheckpoint","path":"objects/obj_SpawnCheckpoint/obj_SpawnCheckpoint.yy",},"order":5,},
+    {"id":{"name":"obj_Checkpoint","path":"objects/obj_Checkpoint/obj_Checkpoint.yy",},"order":5,},
     {"id":{"name":"obj_ChozoToNest2","path":"objects/obj_ChozoToNest2/obj_ChozoToNest2.yy",},"order":12,},
     {"id":{"name":"sprThree","path":"sprites/sprThree/sprThree.yy",},"order":3,},
     {"id":{"name":"sprBallJump","path":"sprites/sprBallJump/sprBallJump.yy",},"order":0,},
