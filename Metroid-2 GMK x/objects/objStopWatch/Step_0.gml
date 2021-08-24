@@ -14,7 +14,6 @@ if global.win = 1 {
 	finalminutes = global.minutes
 	finalseconds = global.seconds
 	finalsteps = global.steps
-	room_goto(YouWin)
 	global.win = 0
 }
 
