@@ -34,13 +34,3 @@ else image_alpha = 100
 
 
 //Sprite Index
-if x > obj_Samus.x 
-	{
-		sprite_index = spr_AlphaMetroidL
-	}
-
-if x < obj_Samus.x
-	{
-		sprite_index = spr_AlphaMetroidR
-	}
-
