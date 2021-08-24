@@ -1,12 +1,12 @@
 {
   "spriteId": {
-    "name": "sprMissle",
-    "path": "sprites/sprMissle/sprMissle.yy",
+    "name": "spr_Pink",
+    "path": "sprites/spr_Pink/spr_Pink.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "spriteMaskId": null,
-  "persistent": true,
+  "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
@@ -27,11 +27,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Items",
-    "path": "folders/Objects/Items.yy",
+    "name": "Terrain",
+    "path": "folders/Objects/Terrain.yy",
   },
   "resourceVersion": "1.0",
-  "name": "objMissle",
+  "name": "obj_SpawnCheckpoint",
   "tags": [],
   "resourceType": "GMObject",
 }

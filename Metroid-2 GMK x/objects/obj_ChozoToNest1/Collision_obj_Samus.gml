@@ -1,1 +1,1 @@
-global.varRoom = 26;
+global.varRoom = 12;

@@ -4,7 +4,7 @@
     "path": "sprites/spr_Red/spr_Red.yy",
   },
   "solid": false,
-  "visible": false,
+  "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
