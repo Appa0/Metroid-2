@@ -215,5 +215,6 @@ global.varSaveMissleCap = global.varMissleCap
 global.varSaveBallJump = global.varBallJump
 global.varSaveMissles = global.varMissles
 global.varSaveJump = global.varHighJump
+game_save("Save.dat")
 }
 global.varRoom = 0;
