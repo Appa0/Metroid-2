@@ -1,1 +1,0 @@
-global.varRoom = 17;

@@ -1,1 +1,0 @@
-global.varMissles += 5;

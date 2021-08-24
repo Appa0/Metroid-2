@@ -1,1 +1,0 @@
-global.Samushealth -= 1;

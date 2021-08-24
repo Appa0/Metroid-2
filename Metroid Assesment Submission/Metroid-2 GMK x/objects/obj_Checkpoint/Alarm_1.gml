@@ -1,2 +1,0 @@
-
-varSpawnSave = 1
